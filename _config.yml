@@ -39,7 +39,7 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Islamicate-DH 2016
+  name: Islamicate-DH
   email: "mtmiller@umd.edu"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
@@ -59,7 +59,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Islamicate-DH"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "Islamicate-DH"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
