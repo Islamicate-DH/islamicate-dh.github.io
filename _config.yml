@@ -34,6 +34,9 @@ navbar-links:
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/avatar-icon.png"
 
+# Additional Gems
+gems: [jekyll-paginate]
+
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
