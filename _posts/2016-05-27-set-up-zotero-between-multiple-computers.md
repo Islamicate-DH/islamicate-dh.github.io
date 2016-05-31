@@ -1,6 +1,12 @@
 ---
 layout: post
+author:	 Cameron Cross
 title: Set Up a Shared Zotero Library Between Two Computers
+categories:
+  - Workflow
+tags:
+  - Zotero
+  - Library
 ---
 
 Zotero is one of the most robust citation management systems out there---open source, free, and great at grabbing metadata and files straight from the web---and with a little tweaking, it can become a great way to organize and maintain a large library of PDFs. For many users, the default settings are perfectly fine, but there are some potential drawbacks that some (such as myself) may wish to address:
@@ -9,6 +15,8 @@ Zotero is one of the most robust citation management systems out there---open so
 - By default, Zotero puts each attachment in a separate folder, buried deep within its directory system and assigned a random number. This is intentional; to protect your data, you're not supposed to be able to easily find and manipulate your files directly. However, if you like to access your files easily through the Finder, this can be annoying.
 
 There is one very easy way you can move your Zotero attachments to another folder where they are visible to the naked eye, so to speak, and that is the [ZotFile](http://zotfile.com/) plugin, but ZotFile, rather unavoidably, does not play well with the WebDAV solution mentioned above. It is possible, however, to set up your Zotero database using ZotFile to link all your attachments to a shared folder such as DropBox or Box. This is the route I opted for, and with a little trial and error, I found a system that is working very well for me (almost perfect, but not quite, to quote Shel Silverstein). In the following post, I will walk you through the steps I did to configure Zotero on multiple machines sharing a single library; I cannot guarantee this will work on every computer, but if your setup exactly matches what I describe below, it should work.
+
+
 
 ## Prerequisites ##
 
@@ -21,15 +29,18 @@ Before diving in and making a mess of things, first check to make sure you meet 
 
 ## Step 1: Set Up Your Library ##
 
+
+
 If you already have a working Zotero library, start by **backing it up** (if you don't know how to do that, go to [Zotero's guide to backing up](https://www.zotero.org/support/zotero_data) and follow the instructions). If not, just open up vanilla Zotero, hop onto J-Stor, and download a couple articles to have a working sample to try out.
 
 Once you have your library set up and backed up, you'll want to download the ZotFile plugin. Go to [zotfile.com](http://zotfile.com/) and follow the instructions for installation (these will vary depending on whether you prefer using Zotero Stand-Alone or the Zotero plug-in with Firefox).
 
 Now that ZotFile is installed, time to set up your preferences! There are **two sections** where we will be adjusting our preferences, so make sure to hit them both. Let's start with ZotFile: click on the settings button in Zotero, select "ZotFile preferences," and follow the steps below:
 
+
 1. In _General Settings_, you want to set a **Custom Location** for the location of your files. I'm using Box, so I get `/Users/myusername/Box Sync/Zotero`. I also tick the "Use subfolder" option and fill the box with `/%A/`; this will sort all my files into subdirectories arranged alphabetically by last name, making it very easy for me to navigate to the 'S' folder to look up 'Smith'. (Again, you can set up your subfolder schema---if you want one at all---however you like; this is just what I did.)
 2. In _Tablet Settings_, I did not change a thing. I'm not dealing with tablets. (But if you are, investigate this further, it's a great feature.)
-3. In _Renaming Rules_, I tweaked the format to read `{%a} {%y} - {%t}`, and I also unchecked the "Truncate title" option. These are cosmetic; you can choose whatever naming system you like (see the [ZotFile renaming rules](http://zotfile.com/#renaming-rules)) or stick with the defaults, which are very good.
+3. In _Renaming Rules_, I tweaked the format to read `{ %a } { %y } - { %t }`, and I also unchecked the "Truncate title" option. These are cosmetic; you can choose whatever naming system you like (see the [ZotFile renaming rules](http://zotfile.com/#renaming-rules)) or stick with the defaults, which are very good.
 4. In _Advanced Settings_, tell Zotfile to _always_ automatically rename new attachments (this simplifies your life). You shouldn't have to change anything else, but I did ask ZotFile to "Remove diacritics from filename" to make searching easier, and I added the `djvu` suffix to the list of filetypes it will work with, since I do like the .djvu format. These changes, too, are of secondary importance.
 
 To review, the only really important thing we have done so far is set the **Custom Location** for our files in a directory that syncs to the cloud, so that we can access them from other computers when the time comes. Now, on to the **Regular Zotero preferences** (click on the settings button and select 'Preferences').
@@ -63,3 +74,4 @@ Here are the major links I mention in this post, in addition to a number of tuto
 - [Syncing Zotero files with WebDAV](http://academic.bancey.com/syncing-zotero-files-with-webdav-from-box/): a basic tutorial to show you how to set up Zotero with Box using the WebDAV protocol. This solution is fine, but you don't get the file renaming goodness that comes with ZotFile.
 - [Setting up a portable library with Zotfile](http://freecity.commons.gc.cuny.edu/2013/12/14/setting-up-a-portable-library-with-zotfile/): offers a slightly different approach, but it was helpful for me to think through mine.
 - [Syncing Zotero with Dropbox and several computers](http://remembereverything.org/syncing-zotero-with-dropbox-and-several-computers/): specifically geared for Windows users.
+
