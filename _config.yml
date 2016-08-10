@@ -24,11 +24,12 @@ description: Enter site description here
 # List of links in the navigation bar
 navbar-links:
   About: "aboutme"
+  Islamicate World 2.0 Course: "IW2Course"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://elijahjcooke.github.io"
+    - Learn R, in R: "http://swirlstats.com/"
+    - Shiny for R: "http://shiny.rstudio.com/"
+    - Learn Markdown: "http://www.markdowntutorial.com/"
+  # Author's home: "http://elijahjcooke.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
