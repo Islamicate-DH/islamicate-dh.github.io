@@ -1,5 +1,6 @@
 ---
 layout: post
+author:	 I-DH Editors
 title: Welcome to Islamicate-DH (I-DH)!
 ---
 
