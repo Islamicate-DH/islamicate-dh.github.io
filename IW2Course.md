@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Islamicate World 2.0 Course
+title: Islamicate World 2.0 Course
 subtitle: Studying Islamic Cultures through Computational Textual Analysis
 ---
 
