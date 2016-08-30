@@ -65,17 +65,16 @@ By the end of this course students will have:
 (4) produced a mini-research publication that will be published on the course site (with the student’s permission).
 
 ## Expectations and Grading Procedures
-The grade breakdown for this class is as follows (and see more details on each element in subsections below):  
-
-30% Class Participation (including, co-discussion leading) 
-20% Class Assignments 
-40% Final (Group) Project 
+The grade breakdown for this class is as follows (and see more details on each element in subsections below):   
+30% Class Participation (including, co-discussion leading)  
+20% Class Assignments  
+40% Final (Group) Project  
 10% Class (Group) Presentation
 
-See undergraduate catalogue for description of grades, e.g., A+, A, A-, etc.: http://www.umd.edu/catalog/index.cfm/show/content.section/c/27/ss/1584/s/1534.  
+_See undergraduate catalogue for description of grades—e.g., A+, A, A-, etc.— [here](http://www.umd.edu/catalog/index.cfm/show/content.section/c/27/ss/1584/s/1534).  
 
 #### Class Participation (30%)     
-We cannot stress enough how important your regular attendance and active participation in class discussion is for your grade (for attendance policy, see #1 in the “Course Procedures and Policies” section below). Regardless of whether we are discussing readings or engaging in collaborative in-class work, this class will primarily be student-driven and so it is imperative that you come to class having prepared the requisite materials and assignments well. 
+We cannot stress enough how important your regular attendance and active participation in class discussion is for your grade (for attendance policy, see #1 in the “Course Procedures and Policies” section below). Regardless of whether we are discussing readings or engaging in collaborative in-class work, this class will primarily be student-driven and so it is imperative that you come to class having prepared the requisite materials and assignments well.  
 Additionally, you will be asked to serve as co-discussion leaders (alongside the instructors) on a rotating basis for the sessions in which we have specific assigned readings. You will be responsible for introducing and contextualizing the readings for the class and formulating class discussion questions based on the readings.     
 
 #### Class Assignments (20%)
@@ -97,50 +96,55 @@ If the university is closed for an extended period of time, this course will be 
 
 ## Course Schedule
 
-Week 1: Class Introduction and Computational Textual Analysis as a Method I
+#### Week 1: Class Introduction and Computational Textual Analysis as a Method I
 
-8/30/2016 Thursday: Class Introduction 
+###### 8/30/2016 Thursday: Class Introduction 
 
 No reading prior to class.
 
-In class: 
-activity with the following reading: Moretti, Franco. “Style, Inc.: Reflections on Seven Thousand Titles (British Novels, 1740–1850).” Critical Inquiry 36/1 (2009): 134-158. [ELMS].
+###### 9/1/2016 Thursday: Computational Textual Analysis as a Method I
 
-9/1/2016 Thursday: Computational Textual Analysis as a Method I
-
-Read Prior to Class:
-Jockers, Matthew L. Macroanalysis: Digital Methods and Literary History. Urbana: University of Illinois Press, 2013, 3-34. [ELMS].
-McCarty, Willard. Humanities Computing. Basingstoke, Hampshire: Palgrave Macmillan, 2014. (Chapter I on modeling). [ELMS]; Alternatively: his “Chapter 19. Modeling: A Study in Words and Meanings” in http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-7 (PDF: http://onlinelibrary.wiley.com/doi/10.1002/9780470999875.ch19/summary) and his “Chapter 21. Knowing … : Modeling in Literary Studies” in http://digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-6-2&toc.id=0&brand=9781405148641_brand 
+_*Read Prior to Class:*_
+* Jockers, Matthew L. _Macroanalysis: Digital Methods and Literary History_. Urbana: University of Illinois Press, 2013, 3-34. [ELMS].
+* McCarty, Willard. _Humanities Computing_. Basingstoke, Hampshire: Palgrave Macmillan, 2014. (Chapter I on modeling). [ELMS]
+* Alternatively: his “Chapter 19. Modeling: A Study in Words and Meanings” in [http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-7](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-7) and his “Chapter 21. Knowing…: Modeling in Literary Studies” in [http://digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-6-2&toc.id=0&brand=9781405148641_brand](http://digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-6-2&toc.id=0&brand=9781405148641_brand) 
 
 
-Week 2: Computational Textual Analysis as a Method II
+#### Week 2: Computational Textual Analysis as a Method II
 
-9/6/2016 Tuesday: Theorizing Computational Methods 
+###### 9/6/2016 Tuesday: Theorizing Computational Methods 
 
-Read Prior to Class:
-Ramsay, Stephen. Reading Machines: Toward an Algorithmic Criticism. Champaign, IL: University of Illinois Press, 2011. 1-17. [ELMS]
-Underwood, Ted. “Theorizing Research Practices We Forgot to Theorize Twenty Years Ago.” Representations 127, no. 1 (Summer 2014): 64–72. [ELMS]
+_*Read Prior to Class:*_  
+* Ramsay, Stephen. _Reading Machines: Toward an Algorithmic Criticism_. Champaign, IL: University of Illinois Press, 2011. 1-17. [ELMS]
+* Underwood, Ted. “Theorizing Research Practices We Forgot to Theorize Twenty Years Ago.” _Representations_ 127, no. 1 (Summer 2014): 64–72. [ELMS]
 
-9/8/2016 Thursday: Modes of Reading
+###### 9/8/2016 Thursday: Modes of Reading
 
-Read Prior to Class:
-Moretti, Franco. Graphs, Maps, Trees: Abstract Models for a Literary History. London: Verso, 2005, 1-34. [ELMS]
-Wilkens, Matthew. “Canons, Close Reading, and the Evolution of Method.” In Debates in the Digital Humanities, edited by Matthew K. Gold (2012): http://dhdebates.gc.cuny.edu/debates/text/17 
+_*Read Prior to Class:*_  
+* Moretti, Franco. _Graphs, Maps, Trees: Abstract Models for a Literary History_. London: Verso, 2005, 1-34. [ELMS]
+* Wilkens, Matthew. “Canons, Close Reading, and the Evolution of Method.” In _Debates in the Digital Humanities_, edited by Matthew K. Gold (2012): [http://dhdebates.gc.cuny.edu/debates/text/17](http://dhdebates.gc.cuny.edu/debates/text/17) 
 
 
-***Monday, September 12, 2016: Last day to add/drop courses and change grading option***
-Week 3: History of Computational Textual Analysis I
-9/13/2016 Tuesday: Genre 
-Read Prior to Class:
-Hope, Jonathan, and Michael Witmore. “The Very Large Textual Object: A Prosthetic Reading of Shakespeare.” Early Modern Literary Studies 9, no. 3  (2004): 1–36. [ELMS]
-Hope, Jonathan, and M. Witmore. “The Hundredth Psalm to the Tune of ‘Green Sleeves’: Digital Approaches to the Language of Genre.” Shakespeare Quarterly 61, no. 3  (2010): 357–90. 
-“DocuScope: Computer-aided Rhetorical Analysis.” Available here: http://www.cmu.edu/dietrich/english/research/docuscope.html 
+_*Monday, September 12, 2016: Last day to add/drop courses and change grading option*_
 
-9/15/2016 Thursday: Genre
-Read Prior to Class:
-Allison, S. et al. “Quantitative Formalism: An Experiment.” Stanford Literary Lab Pamphlet Series (2011): http://litlab.stanford.edu/?page id=255.
-In class: 
-activity with DocuScope’s successor, Ubiqu+Ity 1.1: http://vep.cs.wisc.edu/ubiq/ (bring your computers!).
+#### Week 3: History of Computational Textual Analysis I  
+
+###### 9/13/2016 Tuesday: Genre 
+
+_*Read Prior to Class:*_
+* Hope, Jonathan, and Michael Witmore. “The Very Large Textual Object: A Prosthetic Reading of Shakespeare.” _Early Modern Literary Studies_ 9, no. 3  (2004): 1–36. [ELMS]
+* Hope, Jonathan, and M. Witmore. “The Hundredth Psalm to the Tune of ‘Green Sleeves’: Digital Approaches to the Language of Genre.” _Shakespeare Quarterly_ 61, no. 3  (2010): 357–90. 
+* “DocuScope: Computer-aided Rhetorical Analysis.” Available here: http://www.cmu.edu/dietrich/english/research/docuscope.html 
+
+###### 9/15/2016 Thursday: Genre  
+
+_*Read Prior to Class:*_ 
+
+* Allison, S. et al. “Quantitative Formalism: An Experiment.” _Stanford Literary Lab Pamphlet Series_ (2011): [http://litlab.stanford.edu/?page id=255](http://litlab.stanford.edu/?page id=255).
+
+_*In class: *_
+
+* activity with DocuScope’s successor, Ubiqu+Ity 1.1: [http://vep.cs.wisc.edu/ubiq/](http://vep.cs.wisc.edu/ubiq/) (bring your computers!).
 
 Week 4: History of Computational Textual Analysis II
 9/20/2016 Tuesday: Stylometry 
