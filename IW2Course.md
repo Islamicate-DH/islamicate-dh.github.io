@@ -41,21 +41,21 @@ In this Global Classrooms course, University of Maryland and Universität Leipzi
 
 ## Course Webpage
 
-http://islamicate-dh.github.io/IW2Course/ 
+Available [here](http://islamicate-dh.github.io/IW2Course/) 
 
 ## Required Texts and Technology
 
-Arnold, Taylor and Lauren Tilton.  Humanities Data in R: Exploring Networks, Geospatial Data, Images, and Text. Springer International Publishing: 2015.  ISBN: 9783319207018. Book website: http://humanitiesdata.org/ 
+Arnold, Taylor and Lauren Tilton. _Humanities Data in R: Exploring Networks, Geospatial Data, Images, and Text_. Springer International Publishing: 2015.  ISBN: 9783319207018. Book [website.](http://humanitiesdata.org/)
 
-Jockers, Matthew. Text Analysis with R for Students of Literature. Springer International Publishing: 2014. ISBN: 9783319031637. Book website: http://www.matthewjockers.net/text-analysis-with-r-for-students-of-literature/.
+Jockers, Matthew. _Text Analysis with R for Students of Literature_. Springer International Publishing: 2014. ISBN: 9783319031637. Book [website.](http://www.matthewjockers.net/text-analysis-with-r-for-students-of-literature/)
 
-*These books are available through UMD libraries and in e-book format.
+**NB:These books are available through UMD libraries and in e-book format.**
 
-Download R and R Studio (R is the actual programming language, while RStudio is a convenient interface for interacting with R; you need to download and install both — first R, then RStudio):
-https://cran.r-project.org/
-https://www.rstudio.com/ 
+Download R and R Studio (R is the actual programming language, while RStudio is a convenient interface for interacting with R; you need to download and install both — first R, then RStudio):  
+[https://cran.r-project.org/](https://cran.r-project.org/)   
+[https://www.rstudio.com/](https://cran.r-project.org/) 
 
-NB: Students must have or be able to borrow a laptop for classwork. This course requires extensive use of a computer.
+**NB: Students must have or be able to borrow a laptop for classwork. This course requires extensive use of a computer.**
 
 ## Course Goals 
 By the end of this course students will have:
