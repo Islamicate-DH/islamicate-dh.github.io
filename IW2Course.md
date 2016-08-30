@@ -49,20 +49,20 @@ Arnold, Taylor and Lauren Tilton. _Humanities Data in R: Exploring Networks, Geo
 
 Jockers, Matthew. _Text Analysis with R for Students of Literature_. Springer International Publishing: 2014. ISBN: 9783319031637. Book [website.](http://www.matthewjockers.net/text-analysis-with-r-for-students-of-literature/)
 
-**NB:These books are available through UMD libraries and in e-book format.**
+**_NB: These books are available through UMD libraries and in e-book format._**
 
 Download R and R Studio (R is the actual programming language, while RStudio is a convenient interface for interacting with R; you need to download and install both — first R, then RStudio):  
 [https://cran.r-project.org/](https://cran.r-project.org/)   
 [https://www.rstudio.com/](https://cran.r-project.org/) 
 
-**NB: Students must have or be able to borrow a laptop for classwork. This course requires extensive use of a computer.**
+**_NB: Students must have or be able to borrow a laptop for classwork. This course requires extensive use of a computer._**
 
 ## Course Goals 
-By the end of this course students will have:
-become acquainted with the major debates and tools in computational textual studies;
-developed intermediate-level skills in the R programming language;
-gained extensive experience working in international teams (termed “collaboratories” here) to solve complex problems; 
-produced a mini-research publication that will be published on the course site (with the student’s permission).
+By the end of this course students will have:  
+(1) become acquainted with the major debates and tools in computational textual studies;  
+(2) developed intermediate-level skills in the R programming language;  
+(3) gained extensive experience working in international teams (termed “collaboratories” here) to solve complex problems;  
+(4) produced a mini-research publication that will be published on the course site (with the student’s permission).
 
 ## Expectations and Grading Procedures
 The grade breakdown for this class is as follows (and see more details on each element in subsections below):  
