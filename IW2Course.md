@@ -29,12 +29,11 @@ E-mail: mtmiller@umd.edu
 Roshan Institute for Persian Studies  
 University of Maryland, College Park
 
-_**Dr. Maxim Romanov**_
-
-Office: Neu Paulinum 618 
-Office Hours: By appointment. 
-Email: maxim.romanov@uni-leipzig.de  
-Alexander von Humboldt-Lehrstuhl für Digital Humanities   
+_**Dr. Maxim Romanov**_  
+Office: Neu Paulinum 618  
+Office Hours: By appointment.  
+Email: maxim.romanov@uni-leipzig.de   
+Alexander von Humboldt-Lehrstuhl für Digital Humanities    
 Institut für Informatik, Universität Leipzig
 
 ## Course Description
