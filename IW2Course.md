@@ -8,30 +8,28 @@ _The Islamicate World 2.0: Studying Islamic Cultures through Computational Textu
 
 # Course Syllabus
 
-#### SLLC Special Topics in World Cultures 499I
-#### The Islamicate World 2.0:
-#### Studying Islamic Cultures through Computational Textual Analysis
-#### A Global Classrooms Course
+SLLC Special Topics in World Cultures 499I
+The Islamicate World 2.0: Studying Islamic Cultures through Computational Textual Analysis
+A Global Classrooms Course
 
-#### *Fall 2016*
+*Fall 2016*
+*TuTh 1:00pm - 2:30pm  JMZ 2117*
 
-#### Also offered as: 
-#### HIST 429G, PERS 498W, ARAB 499W. 
-#### Credit granted for:
-#### SLLC 499I, HIST 429G, PERS 498W or ARAB 499W.
-
-#### *TuTh 1:00pm - 2:30pm  JMZ 2117*
+Also offered as: 
+HIST 429G, PERS 498W, ARAB 499W. 
+Credit granted for:
+SLLC 499I, HIST 429G, PERS 498W or ARAB 499W.
 
 ## Instructors
 
-_Dr. Matthew Thomas Miller_
+_*Dr. Matthew Thomas Miller*_
 Office: JMZ 1220D 
 Office Hours: Tu-Th 2:30-3:30 
 E-mail: mtmiller@umd.edu
 Roshan Institute for Persian Studies
 University of Maryland, College Park
 
-_Dr. Maxim Romanov_
+_*Dr. Maxim Romanov*_
 Office: Neu Paulinum 618
 Office Hours: By appointment.
 Email: maxim.romanov@uni-leipzig.de 
