@@ -23,17 +23,17 @@ SLLC 499I, HIST 429G, PERS 498W or ARAB 499W.
 ## Instructors
 
 _**Dr. Matthew Thomas Miller**_
-Office: JMZ 1220D 
-Office Hours: Tu-Th 2:30-3:30 
-E-mail: mtmiller@umd.edu
-Roshan Institute for Persian Studies
+Office: JMZ 1220D  
+Office Hours: Tu-Th 2:30-3:30  
+E-mail: mtmiller@umd.edu 
+Roshan Institute for Persian Studies 
 University of Maryland, College Park
 
 _**Dr. Maxim Romanov**_
-Office: Neu Paulinum 618
-Office Hours: By appointment.
-Email: maxim.romanov@uni-leipzig.de 
-Alexander von Humboldt-Lehrstuhl für Digital Humanities  
+Office: Neu Paulinum 618 
+Office Hours: By appointment. 
+Email: maxim.romanov@uni-leipzig.de  
+Alexander von Humboldt-Lehrstuhl für Digital Humanities   
 Institut für Informatik, Universität Leipzig
 
 ## Course Description
