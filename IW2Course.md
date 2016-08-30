@@ -22,11 +22,11 @@ SLLC 499I, HIST 429G, PERS 498W or ARAB 499W.
 
 ## Instructors
 
-_**Dr. Matthew Thomas Miller**_ 
-Office: JMZ 1220D 
-Office Hours: Tu-Th 2:30-3:30 
-E-mail: mtmiller@umd.edu 
-Roshan Institute for Persian Studies 
+_**Dr. Matthew Thomas Miller**_  
+Office: JMZ 1220D  
+Office Hours: Tu-Th 2:30-3:30  
+E-mail: mtmiller@umd.edu  
+Roshan Institute for Persian Studies  
 University of Maryland, College Park
 
 _**Dr. Maxim Romanov**_
