@@ -106,8 +106,8 @@ No reading prior to class.
 
 _*Read Prior to Class:*_  
 * Jockers, Matthew L. _Macroanalysis: Digital Methods and Literary History_. Urbana: University of Illinois Press, 2013, 3-34. [ELMS].  
-* * McCarty, Willard. _Humanities Computing_. Basingstoke, Hampshire: Palgrave Macmillan, 2014. (Chapter I on modeling). [ELMS]  
-* * Alternatively: his “Chapter 19. Modeling: A Study in Words and Meanings” in [http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-7](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-7) and his “Chapter 21. Knowing…: Modeling in Literary Studies” in [http://digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-6-2&toc.id=0&brand=9781405148641_brand](http://digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-6-2&toc.id=0&brand=9781405148641_brand) 
+* McCarty, Willard. _Humanities Computing_. Basingstoke, Hampshire: Palgrave Macmillan, 2014. (Chapter I on modeling). [ELMS]  
+* Alternatively: his “Chapter 19. Modeling: A Study in Words and Meanings” in [http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-7](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-7) and his “Chapter 21. Knowing…: Modeling in Literary Studies” in [http://digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-6-2&toc.id=0&brand=9781405148641_brand](http://digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-6-2&toc.id=0&brand=9781405148641_brand) 
 
 
 #### Week 2: Computational Textual Analysis as a Method II
