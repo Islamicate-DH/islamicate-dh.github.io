@@ -24,7 +24,7 @@ description: Enter site description here
 # List of links in the navigation bar
 navbar-links:
   About us: "about"
-  Islamicate World 2.0 Course: "IW2Course"
+  Islamicate World 2.0 Course: "IW2Course_2016"
   Resources:
     - Learn R, in R: "http://swirlstats.com/"
     - Shiny for R: "http://shiny.rstudio.com/"
