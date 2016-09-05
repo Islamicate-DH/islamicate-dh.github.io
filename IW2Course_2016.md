@@ -417,7 +417,7 @@ _In class:_
 
 * Research collaboratory focused on final project (bring your computers!).   
 
-#### 12/10/2016 Thursday: Research Collaboratory   
+#### 12/8/2016 Thursday: Research Collaboratory   
 
 _Prepare for Class:_   
 
