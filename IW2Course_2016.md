@@ -105,6 +105,7 @@ No reading prior to class.
 #### 9/1/2016 Thursday: Computational Textual Analysis as a Method I
 
 _Read Prior to Class:_  
+
 * Moretti, Franco. “Style, Inc.: Reflections on Seven Thousand Titles (British Novels, 1740–1850).” _Critical Inquiry_ 36/1 (2009): 134-158. [ELMS].  
 * McCarty, Willard. “Chapter 21. Knowing … : Modeling in Literary Studies.” In _A Companion to Digital Literary Studies_, edited by Susan Schreibman and Ray Siemens. Oxford: Blackwell, 2008. URL: [http://digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-6-2&toc.id=0&brand=9781405148641_brand](http://digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-6-2&toc.id=0&brand=9781405148641_brand) 
 
@@ -114,12 +115,14 @@ _Read Prior to Class:_
 #### 9/6/2016 Tuesday: Theorizing Computational Methods 
 
 _Read Prior to Class:_  
+
 * Ramsay, Stephen. _Reading Machines: Toward an Algorithmic Criticism_. Champaign, IL: University of Illinois Press, 2011. 1-17. [ELMS]   
 * Underwood, Ted. “Theorizing Research Practices We Forgot to Theorize Twenty Years Ago.” _Representations_ 127, no. 1 (Summer 2014): 64–72. [ELMS]
 
 #### 9/8/2016 Thursday: Modes of Reading
 
 _Read Prior to Class:_  
+
 * Moretti, Franco. _Graphs, Maps, Trees: Abstract Models for a Literary History_. London: Verso, 2005, 1-34. [ELMS]   
 * Wilkens, Matthew. “Canons, Close Reading, and the Evolution of Method.” In _Debates in the Digital Humanities_, edited by Matthew K. Gold (2012): [http://dhdebates.gc.cuny.edu/debates/text/17](http://dhdebates.gc.cuny.edu/debates/text/17) 
 
@@ -130,7 +133,8 @@ _Read Prior to Class:_
 
 #### 9/13/2016 Tuesday: Genre 
 
-_Read Prior to Class:_
+_Read Prior to Class:_   
+
 * Hope, Jonathan, and Michael Witmore. “The Very Large Textual Object: A Prosthetic Reading of Shakespeare.” _Early Modern Literary Studies_ 9, no. 3  (2004): 1–36. [ELMS]   
 * Hope, Jonathan, and M. Witmore. “The Hundredth Psalm to the Tune of ‘Green Sleeves’: Digital Approaches to the Language of Genre.” _Shakespeare Quarterly_ 61, no. 3  (2010): 357–90.   
 * “DocuScope: Computer-aided Rhetorical Analysis.” Available here: [http://www.cmu.edu/dietrich/english/research/docuscope.html](http://www.cmu.edu/dietrich/english/research/docuscope.html) 
@@ -150,6 +154,7 @@ _In class:_
 #### 9/20/2016 Tuesday: Stylometry 
 
 _Read Prior to Class:_   
+
 * Holmes, David I. “The Evolution of Stylometry in Humanities Scholarship” _Literary & Linguistic Computing_ 13, no. 3 (1998): 111-117. [ELMS]   
 * Koppel, M., Schler, J. and Argamon, S. “Computational methods in authorship attribution.” _Journal of the American Society for Information Science and Technology_ 60, no. 1 (2009): 9-26. [ELMS]
 
@@ -159,32 +164,38 @@ _In class:_
 #### 9/22/2016 Thursday: Stylometry in R  
 
 _Read Prior to Class:_   
+
 * Maciej Eder, Jan Rybicki, and Mike Kestemont, “‘Stylo’: A Package for Stylometric Analyses.” _Computational Stylistics Group_, 2014.   
 * David Joseph Wrisley. “Modeling the Transmission of al-Mubashshir Ibn Fātik’s Mukhtār al-Ḥikam in Medieval Europe: Some Initial Data-Driven Explorations”  _Journal of Religion, Media and Digital Culture_ 5, no 1 (2016): [https://www.jrmdc.com/journal/article/view/81](https://www.jrmdc.com/journal/article/view/81)  
 * Sadeghi, Behnam. “The Chronology of the Qur’ān: A Stylometric Research Program.” _Arabica_ 58.3–4 (2011): 210-99. [ELMS]  
 
 _In class:_   
-* 1st collaboratory assignment with ‘Stylo’ R Package (bring your computers!).
 
-### Week 5: History of Computational Textual Analysis in Islamic Studies  
+* 1st collaboratory assignment with ‘Stylo’ R Package (bring your computers!).   
+
+### Week 5: History of Computational Textual Analysis in Islamic Studies   
+
 #### 9/27/2016 Tuesday: Bulliet  
 
 _Read Prior to Class:_   
+
 * Bulliet, Richard W. “A Quantitative Approach to Medieval Muslim Biographical Dictionaries.” _Journal of the Economic and Social History of the Orient_ 13, no. 2 (1970): 195–211.   
 * Bulliet, Richard W. _Conversion to Islam in the Medieval Period: An Essay in Quantitative History_. Cambridge: Harvard University Press, 1979. (Selections) [ELMS]  
 
-_In class:_  
+_In class:_   
+
 * 2nd collaboratory assignment with ‘Stylo’ R Package (bring your computers!).  
 
 #### 9/29/2016 Thursday: Romanov and Savant  
 
 _Read Prior to Class:_   
+
 * Romanov, Maxim. “Toward Abstract Models for Islamic History.” In The Digital Humanities + Islamic Middle Eastern Studies, edited by Elias Muhanna, 117–149. Berlin: De Gruyter, 2016. [ELMS]   
 * Savant, Sarah Bowen. "The History of Arabic books in the digital age." British Academy Review Summer (2016): 42-45. [ELMS].  
-* Also look at:
-* Viral Texts Project: http://viraltexts.org/   
+* Also look at: Viral Texts Project: [http://viraltexts.org/](http://viraltexts.org/)   
 
 _In class:_   
+
 * 3rd collaboratory assignment with ‘Stylo’ R Package (bring your computers!).  
 
 ### Week 6: Inauguration of the UMD-UL Global Classroom and R Bootcamp I  
@@ -192,18 +203,22 @@ _In class:_
 #### 10/4/2016 Tuesday: R Basics  
 
 _Prepare for Class:_    
+
 * Chapter 1 in Arnold and Tilton and Chapter 1 in Jockers (there will be some overlap).   
 * Lesson #1-6 in Swirl’s “R Programming Alt” programming tutorial (directions for installation are available here: [https://github.com/swirldev/swirl_courses#swirl-courses](https://github.com/swirldev/swirl_courses#swirl-courses)  
 
 _In class:_   
+
 * collaboratory assignment focused on developing R skills (bring your computers!).  
 
 #### 10/6/2016 Thursday: R Basics   
 
 _Prepare for Class:_   
+
 * Lesson #7-12 in Swirl’s “R Programming Alt” programming tutorial.  
 
-_In class:_   
+_In class:_    
+
 * collaboratory assignment focused on developing R skills (bring your computers!).  
 
 ### Week 7: R Bootcamp II
