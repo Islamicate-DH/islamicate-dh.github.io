@@ -96,6 +96,7 @@ If the university is closed for an extended period of time, this course will be 
 
 ## Course Schedule
 
+
 ### Week 1: Class Introduction and Computational Textual Analysis as a Method I
 
 #### 8/30/2016 Thursday: Class Introduction 
@@ -129,6 +130,7 @@ _Read Prior to Class:_
 
 *Monday, September 12, 2016: Last day to add/drop courses and change grading option*
 
+
 ### Week 3: History of Computational Textual Analysis I  
 
 #### 9/13/2016 Tuesday: Genre 
@@ -148,6 +150,7 @@ _Read Prior to Class:_
 _In class:_  
 
 * activity with DocuScope’s successor, Ubiqu+Ity 1.1: [http://vep.cs.wisc.edu/ubiq/](http://vep.cs.wisc.edu/ubiq/) (bring your computers!).
+
 
 ### Week 4: History of Computational Textual Analysis II  
 
@@ -172,6 +175,7 @@ _Read Prior to Class:_
 _In class:_   
 
 * 1st collaboratory assignment with ‘Stylo’ R Package (bring your computers!).   
+
 
 ### Week 5: History of Computational Textual Analysis in Islamic Studies   
 
@@ -198,6 +202,7 @@ _In class:_
 
 * 3rd collaboratory assignment with ‘Stylo’ R Package (bring your computers!).  
 
+
 ### Week 6: Inauguration of the UMD-UL Global Classroom and R Bootcamp I  
 
 #### 10/4/2016 Tuesday: R Basics  
@@ -221,161 +226,224 @@ _In class:_
 
 * collaboratory assignment focused on developing R skills (bring your computers!).  
 
+
 ### Week 7: R Bootcamp II
-10/11/2016 Tuesday: R Basics
-Prepare for Class: 
-Chapter 2 in Arnold and Tilton.
-In class: 
-collaboratory assignment focused on developing R skills (bring your computers!).
-10/13/2016 Thursday: Basics of Text Analysis in R
-Prepare for Class:
-Chapter 2 in Jockers.
-In class: 
-collaboratory assignment focused on developing R skills (bring your computers!).
-Week 8: R Bootcamp III
-10/18/2016 Tuesday: R Basics
-Prepare for Class: 
-Chapter 3 in Arnold and Tilton.
-In class: 
-collaboratory assignment focused on developing R skills (bring your computers!)
-10/20/2016 Thursday: Basics of Text Analysis in R
-Prepare for Class:
-Chapter 3 in Jockers.
-In class: 
-collaboratory assignment focused on developing R skills (bring your computers!).
 
-Week 9: R Bootcamp IV
-10/25/2016 Tuesday: R Basics  
-Prepare for Class: 
-Chapter 4 in Arnold and Tilton.
-In class: 
-collaboratory assignment focused on developing R skills (bring your computers!)
+#### 10/11/2016 Tuesday: R Basics   
 
-10/27/2016 Thursday: Basics of Text Analysis in R
+_Prepare for Class:_   
 
-Prepare for Class:
-Chapter 4 in Jockers.
+* Chapter 2 in Arnold and Tilton.   
 
-In class: 
-Chapter 5 in Jockers.
-Decide on text analysis groups and their respective assigned chapters for weeks 10-11.
+_In class:_   
+
+* collaboratory assignment focused on developing R skills (bring your computers!).  
+
+#### 10/13/2016 Thursday: Basics of Text Analysis in R  
+
+_Prepare for Class:_   
+
+* Chapter 2 in Jockers.
+
+_In class:_  
+
+* collaboratory assignment focused on developing R skills (bring your computers!).   
 
 
-Week 10: Learning the Different Forms of Text Analysis in R I
+### Week 8: R Bootcamp III   
 
-11/1/2016 Tuesday: Text Analysis in R 
+#### 10/18/2016 Tuesday: R Basics
 
-Prepare for Class: 
-Chapters in Jockers or Arnold and Tilton assigned to your text analysis group.
+_Prepare for Class:_   
 
-In class: 
-collaboratory assignment focused on exploratory data analysis for final project (bring your computers!).
+* Chapter 3 in Arnold and Tilton.   
 
+_In class:_ 
 
-11/3/2016 Thursday: Text Analysis in R
+* collaboratory assignment focused on developing R skills (bring your computers!)
 
-Prepare for Class: 
-Chapters in Jockers or Arnold and Tilton assigned to your text analysis group.
+#### 10/20/2016 Thursday: Basics of Text Analysis in R
 
-In class: 
-collaboratory assignment focused on exploratory data analysis for final project (bring your computers!).
+_Prepare for Class:_   
 
+* Chapter 3 in Jockers.   
 
-Week 11: Learning the Different Forms of Text Analysis in R II
+_In class:_   
 
-11/8/2016 Tuesday: Text Analysis in R
-
-Prepare for Class: 
-Chapters in Jockers or Arnold and Tilton assigned to your text analysis group.
-
-In class: 
-collaboratory assignment focused on exploratory data analysis for final project (bring your computers!).
-
-11/10/2016 Thursday: Text Analysis in R
-
-Prepare for Class: 
-Chapters in Jockers or Arnold and Tilton assigned to your text analysis group.
-
-In class: 
-collaboratory assignment focused on exploratory data analysis for final project (bring your computers!).
-Research collaboratory groups finalized and first set of individualized assignments distributed in preparation for your research group’s first research collaboratory.
+* collaboratory assignment focused on developing R skills (bring your computers!).   
 
 
-Week 12: Research Collaboratory I
+### Week 9: R Bootcamp IV   
 
-11/15/2016 Tuesday: Research Collaboratory
+#### 10/25/2016 Tuesday: R Basics  
 
-Prepare for Class: 
-Task assigned to you by your research group in previous collaboratory.
+_Prepare for Class:_   
 
-In class: 
-Research collaboratory focused on final project (bring your computers!).
+* Chapter 4 in Arnold and Tilton.   
 
-11/17/2016 Thursday: Research Collaboratory
+_In class:_   
 
-Prepare for Class: 
-Task assigned to you by your research group in previous collaboratory.
+* collaboratory assignment focused on developing R skills (bring your computers!)   
 
-In class: 
-Research collaboratory focused on final project (bring your computers!).
+#### 10/27/2016 Thursday: Basics of Text Analysis in R
 
+_Prepare for Class:_   
 
-Week 13: Research Collaboratory II
+* Chapter 4 in Jockers.   
 
-11/22/2016 Tuesday: Research Collaboratory
+_In class:_   
 
-Prepare for Class: 
-Task assigned to you by your research group in previous collaboratory.
-
-In class: 
-Research collaboratory focused on final project (bring your computers!).
+* Chapter 5 in Jockers.  
+* Decide on text analysis groups and their respective assigned chapters for weeks 10-11.   
 
 
-11/24/2016 Thursday: No Class, Thanksgiving Recess
-Week 14: Research Collaboratory III
-11/29/2016 Tuesday: Research Collaboratory
-Prepare for Class: 
-Task assigned to you by your research group in previous collaboratory.
-In class: 
-Research collaboratory focused on final project (bring your computers!).
-12/1/2016  Thursday: Research Collaboratory
-Prepare for Class: 
-Task assigned to you by your research group in previous collaboratory.
-In class: 
-Research collaboratory focused on final project (bring your computers!).
-Week 15: Research Collaboratory IV
-Description
-12/6/2016 Tuesday: Research Collaboratory
-Prepare for Class: 
-Task assigned to you by your research group in previous collaboratory.
-In class: 
-Research collaboratory focused on final project (bring your computers!).
+### Week 10: Learning the Different Forms of Text Analysis in R I   
 
-12/10/2016 Thursday: Research Collaboratory
-Prepare for Class: 
-Task assigned to you by your research group in previous collaboratory.
-In class: 
-Research collaboratory focused on final project (bring your computers!).
+#### 11/1/2016 Tuesday: Text Analysis in R   
+
+_Prepare for Class:_   
+
+* Chapters in Jockers or Arnold and Tilton assigned to your text analysis group.   
+
+_In class:_   
+
+* collaboratory assignment focused on exploratory data analysis for final project (bring your computers!).
+
+#### 11/3/2016 Thursday: Text Analysis in R   
+
+_Prepare for Class:_   
+
+* Chapters in Jockers or Arnold and Tilton assigned to your text analysis group.   
+
+_In class:_   
+
+* collaboratory assignment focused on exploratory data analysis for final project (bring your computers!).   
 
 
-Last Day of Classes: Monday, December 12th, 2016
+### Week 11: Learning the Different Forms of Text Analysis in R II   
 
-Reading Day: Tuesday, December 13th, 2016
+#### 11/8/2016 Tuesday: Text Analysis in R   
 
-Final Exam Date: Monday, December 19, 1:30-3:30 (Link to final exam schedule: http://registrar.umd.edu/current/registration/exam.html)
+_Prepare for Class:_   
+
+* Chapters in Jockers or Arnold and Tilton assigned to your text analysis group.   
+
+_In class:_   
+
+* collaboratory assignment focused on exploratory data analysis for final project (bring your computers!).
+
+#### 11/10/2016 Thursday: Text Analysis in R   
+
+_Prepare for Class:_   
+
+* Chapters in Jockers or Arnold and Tilton assigned to your text analysis group.   
+
+_In class:_   
+
+* collaboratory assignment focused on exploratory data analysis for final project (bring your computers!).   
+* Research collaboratory groups finalized and first set of individualized assignments distributed in preparation for your research group’s first research collaboratory.   
 
 
-Course Procedures and Policies
+### Week 12: Research Collaboratory I   
 
-1) Attendance and Absences: Students are expected to attend classes regularly. Consistent attendance offers students the most effective opportunity to gain command of course concepts and materials. After the 3rd unexcused absence, student’s class participation grade will be reduced by 10% for each subsequent absence up to the 6th unexcused absence. More than 6 unexcused absences will result in a failing grade for the course. Events that justify an excused absence include: religious observances; mandatory military obligation; illness of the student or illness of an immediate family member; participation in university activities at the request of university authorities; and compelling circumstances beyond the student’s control (e.g., death in the family, required court appearance). Absences stemming from work duties other than military obligation (e.g., unexpected changes in shift assignments) and traffic/transit problems do not typically qualify for excused absence. Students claiming an excused absence must notify the course instructor in a timely manner and provide appropriate documentation. The notification should be provided either prior to the absence or as soon afterwards as possible. In the case of religious observances, athletic events, and planned absences known at the beginning of the semester, the student must inform the instructor during the schedule adjustment period. All other absences must be reported as soon as is practical. The student must provide appropriate documentation of the absence. The documentation must be provided in writing to the instructor. The full university attendance/absence policy can be found here: http://www.ugst.umd.edu/courserelatedpolicies.html. 
+#### 11/15/2016 Tuesday: Research Collaboratory   
 
-2) Academic Integrity: The UMD Honor Code prohibits students from cheating on exams, plagiarizing papers, submitting the same paper for credit in two courses without authorization, buying papers, submitting fraudulent documents and forging signatures. On every examination, paper or other academic exercise not exempted by the instructor, students must write by hand and sign the following pledge: “I pledge on my honor that I have not given or received any unauthorized assistance on this examination (or assignment).” Allegations of academic dishonesty will be reported directly to the Student Honor Council: http://www.shc.umd.edu. Students who engage in academic dishonesty in this course will receive no points for the assignment in question, and will be immediately reported to the Honor Council and Office of Judicial Programs for further action. There will be no warnings.  Remember, cheating, plagiarism or other types of fabrication are never worth it. Definitions for plagiarism, fabrication, cheating, etc. can be found at: http://www.ugst.umd.edu/courserelatedpolicies.html. 
+_Prepare for Class:_   
 
-2) Disability Support: Students with a documented disability should inform the instructors within the add-drop period if academic accommodations will be needed. NB: You are expected to meet with your instructor in person to provide them with a copy of the Accommodations Letter and to obtain your instructor’s signature on the Acknowledgement of Student Request form. You and your instructor will plan together how accommodations will be implemented throughout the semester. To obtain the required Accommodation Letter, please contact Disability Support Service (DSS) at 301-314-7682 or dissup@umd.edu.
+* Task assigned to you by your research group in previous collaboratory.   
+
+_In class:_   
+
+* Research collaboratory focused on final project (bring your computers!).   
+
+#### 11/17/2016 Thursday: Research Collaboratory   
+
+_Prepare for Class:_   
+
+* Task assigned to you by your research group in previous collaboratory.   
+
+_In class:_   
+
+* Research collaboratory focused on final project (bring your computers!).   
 
 
-3) Copyright Notice: Class lectures and other materials are protected by a Creative Commonons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) license. Copyright infringements may be referred to the Office of Student Conduct.
+### Week 13: Research Collaboratory II   
 
-4) Academic Accommodations for Students Who Experience Sexual Misconduct: The University of Maryland is committed to providing support and resources, including academic accommodations, for students who experience sexual or relationship violence as defined by the University’s Sexual Misconduct Policy. To report an incident and/or obtain an academic accommodation, contact the Office of Civil Rights and Sexual Misconduct at 301-405-1142. If you wish to speak confidentially, contact Campus Advocates Respond and Educate (CARE) to Stop Violence at 301-741-3555. As ‘responsible university employees’ faculty are required to report any disclosure of sexual misconduct, i.e., they may not hold such disclosures in confidence. For more information: http://www.umd.edu/ocrsm/" http://www.umd.edu/ocrsm/ 
+#### 11/22/2016 Tuesday: Research Collaboratory   
 
-5) Diversity: The University of Maryland values the diversity of its student body. Along with the University, the instructor(s) are committed to providing a classroom atmosphere that encourages the equitable participation of all students regardless of age, disability, ethnicity, gender, national origin, race, religion, or sexual orientation. Potential devaluation of students in the classroom that can occur by reference to demeaning stereotypes of any group and/or overlooking the contributions of a particular group to the topic under discussion is inappropriate and will not be tolerated.
+_Prepare for Class:_   
+
+* Task assigned to you by your research group in previous collaboratory.   
+
+_In class:_   
+
+* Research collaboratory focused on final project (bring your computers!).   
+
+#### 11/24/2016 Thursday: No Class, Thanksgiving Recess   
+
+
+### Week 14: Research Collaboratory III   
+
+#### 11/29/2016 Tuesday: Research Collaboratory   
+
+_Prepare for Class:_   
+
+* Task assigned to you by your research group in previous collaboratory.   
+
+_In class:_   
+
+* Research collaboratory focused on final project (bring your computers!).   
+
+#### 12/1/2016  Thursday: Research Collaboratory   
+
+_Prepare for Class:_    
+
+* Task assigned to you by your research group in previous collaboratory.   
+
+_In class:_   
+
+* Research collaboratory focused on final project (bring your computers!).   
+
+
+### Week 15: Research Collaboratory IV   
+
+#### 12/6/2016 Tuesday: Research Collaboratory   
+
+_Prepare for Class:_   
+
+* Task assigned to you by your research group in previous collaboratory.   
+
+_In class:_    
+
+* Research collaboratory focused on final project (bring your computers!).   
+
+#### 12/10/2016 Thursday: Research Collaboratory   
+
+_Prepare for Class:_   
+
+* Task assigned to you by your research group in previous collaboratory.   
+
+_In class:_   
+
+* Research collaboratory focused on final project (bring your computers!).   
+
+
+#### Last Day of Classes: Monday, December 12th, 2016   
+
+#### Reading Day: Tuesday, December 13th, 2016    
+
+#### Final Exam Date: Monday, December 19, 1:30-3:30 (Link to final exam schedule: [http://registrar.umd.edu/current/registration/exam.html](http://registrar.umd.edu/current/registration/exam.html))   
+
+
+## Course Procedures and Policies   
+
+1) *Attendance and Absences:* Students are expected to attend classes regularly. Consistent attendance offers students the most effective opportunity to gain command of course concepts and materials. After the 3rd unexcused absence, student’s class participation grade will be reduced by 10% for each subsequent absence up to the 6th unexcused absence. More than 6 unexcused absences will result in a failing grade for the course. Events that justify an excused absence include: religious observances; mandatory military obligation; illness of the student or illness of an immediate family member; participation in university activities at the request of university authorities; and compelling circumstances beyond the student’s control (e.g., death in the family, required court appearance). Absences stemming from work duties other than military obligation (e.g., unexpected changes in shift assignments) and traffic/transit problems do not typically qualify for excused absence. Students claiming an excused absence must notify the course instructor in a timely manner and provide appropriate documentation. The notification should be provided either prior to the absence or as soon afterwards as possible. In the case of religious observances, athletic events, and planned absences known at the beginning of the semester, the student must inform the instructor during the schedule adjustment period. All other absences must be reported as soon as is practical. The student must provide appropriate documentation of the absence. The documentation must be provided in writing to the instructor. The full university attendance/absence policy can be found here: http://www.ugst.umd.edu/courserelatedpolicies.html.   
+
+2) *Academic Integrity:* The UMD Honor Code prohibits students from cheating on exams, plagiarizing papers, submitting the same paper for credit in two courses without authorization, buying papers, submitting fraudulent documents and forging signatures. On every examination, paper or other academic exercise not exempted by the instructor, students must write by hand and sign the following pledge: “I pledge on my honor that I have not given or received any unauthorized assistance on this examination (or assignment).” Allegations of academic dishonesty will be reported directly to the Student Honor Council: http://www.shc.umd.edu. Students who engage in academic dishonesty in this course will receive no points for the assignment in question, and will be immediately reported to the Honor Council and Office of Judicial Programs for further action. There will be no warnings.  Remember, cheating, plagiarism or other types of fabrication are never worth it. Definitions for plagiarism, fabrication, cheating, etc. can be found at: http://www.ugst.umd.edu/courserelatedpolicies.html.   
+3) *Disability Support:* Students with a documented disability should inform the instructors within the add-drop period if academic accommodations will be needed. NB: You are expected to meet with your instructor in person to provide them with a copy of the Accommodations Letter and to obtain your instructor’s signature on the Acknowledgement of Student Request form. You and your instructor will plan together how accommodations will be implemented throughout the semester. To obtain the required Accommodation Letter, please contact Disability Support Service (DSS) at 301-314-7682 or dissup@umd.edu.   
+
+4) *Copyright Notice:* Class lectures and other materials are protected by a Creative Commonons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) license. Copyright infringements may be referred to the Office of Student Conduct.   
+
+5) *Academic Accommodations for Students Who Experience Sexual Misconduct:* The University of Maryland is committed to providing support and resources, including academic accommodations, for students who experience sexual or relationship violence as defined by the University’s Sexual Misconduct Policy. To report an incident and/or obtain an academic accommodation, contact the Office of Civil Rights and Sexual Misconduct at 301-405-1142. If you wish to speak confidentially, contact Campus Advocates Respond and Educate (CARE) to Stop Violence at 301-741-3555. As ‘responsible university employees’ faculty are required to report any disclosure of sexual misconduct, i.e., they may not hold such disclosures in confidence. For more information: http://www.umd.edu/ocrsm/" http://www.umd.edu/ocrsm/    
+
+6) *Diversity:* The University of Maryland values the diversity of its student body. Along with the University, the instructor(s) are committed to providing a classroom atmosphere that encourages the equitable participation of all students regardless of age, disability, ethnicity, gender, national origin, race, religion, or sexual orientation. Potential devaluation of students in the classroom that can occur by reference to demeaning stereotypes of any group and/or overlooking the contributions of a particular group to the topic under discussion is inappropriate and will not be tolerated.
