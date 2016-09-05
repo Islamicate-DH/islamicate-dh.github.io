@@ -137,7 +137,7 @@ _Read Prior to Class:_
 
 _Read Prior to Class:_   
 
-* Hope, Jonathan, and Michael Witmore. “The Very Large Textual Object: A Prosthetic Reading of Shakespeare.” _Early Modern Literary Studies_ 9, no. 3  (2004): 1–36. [ELMS]   
+* Hope, Jonathan, and Michael Witmore. “The Very Large Textual Object: A Prosthetic Reading of Shakespeare.” _Early Modern Literary Studies_ 9, no. 3  (2004): 1–36. Link: [http://extra.shu.ac.uk/emls/09-3/hopewhit.htm](http://extra.shu.ac.uk/emls/09-3/hopewhit.htm)   
 * Hope, Jonathan, and M. Witmore. “The Hundredth Psalm to the Tune of ‘Green Sleeves’: Digital Approaches to the Language of Genre.” _Shakespeare Quarterly_ 61, no. 3  (2010): 357–90.   
 * “DocuScope: Computer-aided Rhetorical Analysis.” Available here: [http://www.cmu.edu/dietrich/english/research/docuscope.html](http://www.cmu.edu/dietrich/english/research/docuscope.html) 
 
