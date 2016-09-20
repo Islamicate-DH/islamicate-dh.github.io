@@ -169,8 +169,6 @@ _In class:_
 _Read Prior to Class:_   
 
 * Maciej Eder, Jan Rybicki, and Mike Kestemont, “‘Stylo’: A Package for Stylometric Analyses.” _Computational Stylistics Group_, 2014.   
-* David Joseph Wrisley. “Modeling the Transmission of al-Mubashshir Ibn Fātik’s Mukhtār al-Ḥikam in Medieval Europe: Some Initial Data-Driven Explorations”  _Journal of Religion, Media and Digital Culture_ 5, no 1 (2016): [https://www.jrmdc.com/journal/article/view/81](https://www.jrmdc.com/journal/article/view/81)  
-* Sadeghi, Behnam. “The Chronology of the Qur’ān: A Stylometric Research Program.” _Arabica_ 58.3–4 (2011): 210-99. [ELMS]  
 
 _In class:_   
 
@@ -183,8 +181,8 @@ _In class:_
 
 _Read Prior to Class:_   
 
-* Bulliet, Richard W. “A Quantitative Approach to Medieval Muslim Biographical Dictionaries.” _Journal of the Economic and Social History of the Orient_ 13, no. 2 (1970): 195–211.   
-* Bulliet, Richard W. _Conversion to Islam in the Medieval Period: An Essay in Quantitative History_. Cambridge: Harvard University Press, 1979. (Selections) [ELMS]  
+* David Joseph Wrisley. “Modeling the Transmission of al-Mubashshir Ibn Fātik’s Mukhtār al-Ḥikam in Medieval Europe: Some Initial Data-Driven Explorations”  _Journal of Religion, Media and Digital Culture_ 5, no 1 (2016): [https://www.jrmdc.com/journal/article/view/81](https://www.jrmdc.com/journal/article/view/81)  
+* Sadeghi, Behnam. “The Chronology of the Qur’ān: A Stylometric Research Program.” _Arabica_ 58.3–4 (2011): 210-99. [ELMS]  
 
 _In class:_   
 
