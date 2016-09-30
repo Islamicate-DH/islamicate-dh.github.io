@@ -106,6 +106,7 @@ If the university is closed for an extended period of time, this course will be 
 
 No reading prior to class.
 
+
 #### 9/1/2016 Thursday: Computational Textual Analysis as a Method I
 
 _*Read Prior to Class:*_  
@@ -115,11 +116,13 @@ _*Read Prior to Class:*_
 
 ### Week 2: Computational Textual Analysis as a Method II
 
+
 #### 9/6/2016 Tuesday: Theorizing Computational Methods 
 
 _*Read Prior to Class:*_  
 * Ramsay, Stephen. _Reading Machines: Toward an Algorithmic Criticism_. Champaign, IL: University of Illinois Press, 2011. 1-17. [ELMS]
 * Underwood, Ted. “Theorizing Research Practices We Forgot to Theorize Twenty Years Ago.” _Representations_ 127, no. 1 (Summer 2014): 64–72. [ELMS]
+
 
 #### 9/8/2016 Thursday: Modes of Reading
 
@@ -130,7 +133,9 @@ _*Read Prior to Class:*_
 
 _*Monday, September 12, 2016: Last day to add/drop courses and change grading option*_
 
+
 ### Week 3: History of Computational Textual Analysis I  
+
 
 #### 9/13/2016 Tuesday: Genre 
 
@@ -138,6 +143,7 @@ _*Read Prior to Class:*_
 * Hope, Jonathan, and Michael Witmore. “The Very Large Textual Object: A Prosthetic Reading of Shakespeare.” _Early Modern Literary Studies_ 9, no. 3  (2004): 1–36. [ELMS]
 * Hope, Jonathan, and M. Witmore. “The Hundredth Psalm to the Tune of ‘Green Sleeves’: Digital Approaches to the Language of Genre.” _Shakespeare Quarterly_ 61, no. 3  (2010): 357–90. 
 * “DocuScope: Computer-aided Rhetorical Analysis.” Available here: [http://www.cmu.edu/dietrich/english/research/docuscope.html](http://www.cmu.edu/dietrich/english/research/docuscope.html) 
+
 
 #### 9/15/2016 Thursday: Genre  
 
