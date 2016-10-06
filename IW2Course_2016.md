@@ -225,7 +225,9 @@ swirl()
 
 _In class:_   
 
-* collaboratory assignment focused on developing R skills (bring your computers!).  
+* Introduction to the command line! Go here: [http://programminghistorian.org/lessons/intro-to-bash](http://programminghistorian.org/lessons/intro-to-bash)   
+* A more detailed introduction (and useful list of commands) is available here: [https://learnpythonthehardway.org/book/appendixa.html](https://learnpythonthehardway.org/book/appendixa.html)   
+
 
 #### 10/6/2016 Thursday: R Basics   
 
@@ -235,7 +237,7 @@ _Prepare for Class:_
 
 _In class:_    
 
-* collaboratory assignment focused on developing R skills (bring your computers!).  
+* Introduction to using Github.    
 
 
 ### Week 7: R Bootcamp II
