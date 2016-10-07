@@ -73,7 +73,7 @@ The grade breakdown for this class is as follows (and see more details on each e
 40% Final (Group) Project  
 10% Class (Group) Presentation
 
-_See undergraduate catalogue for description of grades—e.g., A+, A, A-, etc.— [here](http://www.umd.edu/catalog/index.cfm/show/content.section/c/27/ss/1584/s/1534).  
+_See undergraduate catalogue for description of grades—e.g., A+, A, A-, etc.— [here](http://www.umd.edu/catalog/index.cfm/show/content.section/c/27/ss/1584/s/1534)._  
 
 #### Class Participation (30%)     
 We cannot stress enough how important your regular attendance and active participation in class discussion is for your grade (for attendance policy, see #1 in the “Course Procedures and Policies” section below). Regardless of whether we are discussing readings or engaging in collaborative in-class work, this class will primarily be student-driven and so it is imperative that you come to class having prepared the requisite materials and assignments well.  
@@ -253,6 +253,10 @@ _In class:_
 * collaboratory assignment focused on developing R skills (bring your computers!).  
 
 #### 10/13/2016 Thursday: Basics of Text Analysis in R  
+
+_Submit before Class:_   
+
+* Practice exercises for chapter 2 in Arnold & Tilton, pages 183-186.
 
 _Prepare for Class:_   
 
