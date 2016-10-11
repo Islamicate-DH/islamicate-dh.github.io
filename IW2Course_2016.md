@@ -218,10 +218,13 @@ _In class:_
 _Prepare for Class:_    
 
 * Chapter 1 in Arnold and Tilton and Chapter 1 in Jockers (there will be some overlap).   
-* Lesson #1-6 in Swirl’s “R Programming Alt” programming tutorial (directions for installation are available here: [https://github.com/swirldev/swirl_courses#swirl-courses](https://github.com/swirldev/swirl_courses#swirl-courses). Please use "R Programming E" course by entering and executing the following commands in RStudio:   
+* Lesson #1-6 in Swirl’s “R Programming Alt” programming tutorial (directions for installation are available here: [https://github.com/swirldev/swirl_courses#swirl-courses](https://github.com/swirldev/swirl_courses#swirl-courses). Please use "R Programming E" course by entering and executing the following commands in RStudio:
+
+```
 library(swirl)   
 install_course_github("swirldev", "R_Programming_E")   
 swirl()
+```
 
 _In class:_   
 
