@@ -253,7 +253,7 @@ _Prepare for Class:_
 
 _In class:_   
 
-* collaboratory assignment focused on developing R skills (bring your computers!).  
+* "Sheykh Google" activity (bring your computers!).  
 
 #### 10/13/2016 Thursday: Basics of Text Analysis in R  
 
@@ -261,13 +261,9 @@ _Submit before Class:_
 
 * Practice exercises for chapter 2 in Arnold & Tilton, pages 183-186.
 
-_Prepare for Class:_   
-
-* Chapter 2 in Jockers.
-
 _In class:_  
 
-* collaboratory assignment focused on developing R skills (bring your computers!).   
+* Jockers chapter 2 (bring your computers!).   
 
 
 ### Week 8: R Bootcamp III   
@@ -280,17 +276,18 @@ _Prepare for Class:_
 
 _In class:_ 
 
-* collaboratory assignment focused on developing R skills (bring your computers!)
+* Jockers chapter 3 (bring your computers!)
 
 #### 10/20/2016 Thursday: Basics of Text Analysis in R
 
-_Prepare for Class:_   
+_Submit before Class:_   
 
-* Chapter 3 in Jockers.   
+* Practice exercises for chapter 3 in Arnold & Tilton, pages 186-188.   
 
 _In class:_   
 
-* collaboratory assignment focused on developing R skills (bring your computers!).   
+* Jockers chapter 4 (bring your computers!).   
+* First brainstorming session on final project topics.
 
 
 ### Week 9: R Bootcamp IV   
@@ -303,21 +300,20 @@ _Prepare for Class:_
 
 _In class:_   
 
-* collaboratory assignment focused on developing R skills (bring your computers!)   
+* Jockers chapter 5.   
 
 #### 10/27/2016 Thursday: Basics of Text Analysis in R
 
-_Prepare for Class:_   
+_Submit before Class:_   
 
-* Chapter 4 in Jockers.   
+* Practice exercises for chapter 4 in Arnold & Tilton, pages 188-190.   
 
 _In class:_   
 
-* Chapter 5 in Jockers.  
-* Decide on text analysis groups and their respective assigned chapters for weeks 10-11.   
+* Second brainstorming session on final project topics (by end of this class, we will set the text analysis groups and their respective assigned chapters for week 10 based your initial ideas for the final project).   
 
 
-### Week 10: Learning the Different Forms of Text Analysis in R I   
+### Week 10: Learning Specific Forms of Text Analysis in R   
 
 #### 11/1/2016 Tuesday: Text Analysis in R   
 
@@ -327,7 +323,7 @@ _Prepare for Class:_
 
 _In class:_   
 
-* collaboratory assignment focused on exploratory data analysis for final project (bring your computers!).
+* Chapters in Jockers or Arnold and Tilton assigned to your text analysis group.
 
 #### 11/3/2016 Thursday: Text Analysis in R   
 
@@ -337,34 +333,34 @@ _Prepare for Class:_
 
 _In class:_   
 
-* collaboratory assignment focused on exploratory data analysis for final project (bring your computers!).   
+* Chapters in Jockers or Arnold and Tilton assigned to your text analysis group.    
+* Research collaboratory groups finalized and first set of individualized assignments distributed in preparation for your research group’s first research collaboratory.
 
 
-### Week 11: Learning the Different Forms of Text Analysis in R II   
+### Week 11: Research Collaboratory I  
 
-#### 11/8/2016 Tuesday: Text Analysis in R   
-
-_Prepare for Class:_   
-
-* Chapters in Jockers or Arnold and Tilton assigned to your text analysis group.   
-
-_In class:_   
-
-* collaboratory assignment focused on exploratory data analysis for final project (bring your computers!).
-
-#### 11/10/2016 Thursday: Text Analysis in R   
+#### 11/8/2016 Tuesday: Research Collaboratory   
 
 _Prepare for Class:_   
 
-* Chapters in Jockers or Arnold and Tilton assigned to your text analysis group.   
+* Task assigned to you by your research group in previous collaboratory.   
 
 _In class:_   
 
-* collaboratory assignment focused on exploratory data analysis for final project (bring your computers!).   
-* Research collaboratory groups finalized and first set of individualized assignments distributed in preparation for your research group’s first research collaboratory.   
+* Research collaboratory focused on final project (bring your computers!).
+
+#### 11/10/2016 Thursday: Research Collaboratory   
+
+_Prepare for Class:_   
+
+* Task assigned to you by your research group in previous collaboratory.   
+
+_In class:_   
+
+* Research collaboratory focused on final project (bring your computers!).      
 
 
-### Week 12: Research Collaboratory I   
+### Week 12: Research Collaboratory II   
 
 #### 11/15/2016 Tuesday: Research Collaboratory   
 
@@ -387,7 +383,7 @@ _In class:_
 * Research collaboratory focused on final project (bring your computers!).   
 
 
-### Week 13: Research Collaboratory II   
+### Week 13: Research Collaboratory III   
 
 #### 11/22/2016 Tuesday: Research Collaboratory   
 
@@ -402,7 +398,7 @@ _In class:_
 #### 11/24/2016 Thursday: No Class, Thanksgiving Recess   
 
 
-### Week 14: Research Collaboratory III   
+### Week 14: Research Collaboratory IV   
 
 #### 11/29/2016 Tuesday: Research Collaboratory   
 
@@ -425,7 +421,7 @@ _In class:_
 * Research collaboratory focused on final project (bring your computers!).   
 
 
-### Week 15: Research Collaboratory IV   
+### Week 15: Research Collaboratory V   
 
 #### 12/6/2016 Tuesday: Research Collaboratory   
 
