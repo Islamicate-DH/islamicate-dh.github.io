@@ -253,6 +253,7 @@ _Prepare for Class:_
 
 _In class:_   
 
+* Introduction to Github (including pulling corpus of practive texts for class and submission of class assignments through Github).
 * "Sheykh Google" activity (bring your computers!).  
 
 #### 10/13/2016 Thursday: Basics of Text Analysis in R  
