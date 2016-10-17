@@ -22,13 +22,29 @@ description: Enter site description here
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
+
+# List of links in the navigation bar
 navbar-links:
-  About us: "about"
+  About: "about"
   Islamicate World 2.0 Course: "IW2Course_2016"
-  Resources:
-    - Learn R, in R: "http://swirlstats.com/"
-    - Shiny for R: "http://shiny.rstudio.com/"
-    - Learn Markdown: "http://www.markdowntutorial.com/"
+  Text Tools:
+    - AntCont: "http://www.laurenceanthony.net/software/antconc/"
+    - Word Frequency Gen: "http://www.writewords.org.uk/word_count.asp"
+  R-Related:
+    - R : "https://www.r-project.org/"
+    - RStudio : "https://www.rstudio.com/"
+    - R Shiny : "http://shiny.rstudio.com/"
+  Tutorials:
+    - Markdown: "http://www.markdowntutorial.com/"
+    - RegEx: "http://regexone.com/"
+    - GitHub: "https://try.github.io"
+    - R Interactive: "http://tryr.codeschool.com/"
+    - R in R (Swirl): "http://swirlstats.com/"
+    - Python: "http://www.learnpython.org/"
+    - QGIS Video: "https://www.youtube.com/user/HarvardCGA/videos"
+
+
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
