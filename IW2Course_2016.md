@@ -264,7 +264,8 @@ _Submit before Class:_
 
 _In class:_  
 
-* Jockers chapter 2 (bring your computers!).   
+* Jockers chapter 2 (bring your computers!). We hope you will be able to finish most of the Jockers' exercises in class, but if not, please finish them up at home and submit them before the following class. Please submit your code (i.e., the R script file) and also any resulting visualizations (e.g., graphs, tables) or answers (in the form of a screenshot).
+  
 
 
 ### Week 8: R Bootcamp III   
@@ -277,7 +278,7 @@ _Prepare for Class:_
 
 _In class:_ 
 
-* Jockers chapter 3 (bring your computers!)
+* Jockers chapter 3 (bring your computers!). We hope you will be able to finish most of the Jockers' exercises in class, but if not, please finish them up at home and submit them before the following class. Please submit your code (i.e., the R script file) and also any resulting visualizations (e.g., graphs, tables) or answers (in the form of a screenshot).
 
 #### 10/20/2016 Thursday: Basics of Text Analysis in R
 
@@ -287,7 +288,7 @@ _Submit before Class:_
 
 _In class:_   
 
-* Jockers chapter 4 (bring your computers!).   
+* Jockers chapter 4 (bring your computers!). We hope you will be able to finish most of the Jockers' exercises in class, but if not, please finish them up at home and submit them before the following class. Please submit your code (i.e., the R script file) and also any resulting visualizations (e.g., graphs, tables) or answers (in the form of a screenshot).   
 * First brainstorming session on final project topics.
 
 
@@ -301,7 +302,7 @@ _Prepare for Class:_
 
 _In class:_   
 
-* Jockers chapter 5.   
+* Jockers chapter 5. We hope you will be able to finish most of the Jockers' exercises in class, but if not, please finish them up at home and submit them before the following class. Please submit your code (i.e., the R script file) and also any resulting visualizations (e.g., graphs, tables) or answers (in the form of a screenshot).   
 
 #### 10/27/2016 Thursday: Basics of Text Analysis in R
 
