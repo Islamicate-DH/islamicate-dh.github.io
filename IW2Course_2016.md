@@ -321,11 +321,19 @@ _In class:_
 
 _Prepare for Class:_   
 
-* Chapters in Jockers or Arnold and Tilton assigned to your text analysis group.   
+* Task assigned to you by your research group in previous collaboratory:   
+
+*John:* One pager on R-shief.    
+*Aysha:* Prepare topic modeling chapters from Jockers and Arnold/Tilton books.  
+*Jake:* Finish newspaper Google spreadsheet.    
+*Tobias:* Continue scraping from websites in listed in Google spreadsheet.    
+*Jonathon:* Continue refining his scraping script in order to make the data available.    
+*Sarosh:* Look into methods of extracting information from data so that we can determine if certain verses آيات/آية or sura سور/سورة  were considered significant to various Mufasiroon مفسرون and mathahab مذاهب.        
+*Christian and Thomas:* Prepare topic modeling chapters from Jockers and Arnold/Tilton books.    
 
 _In class:_   
 
-* Chapters in Jockers or Arnold and Tilton assigned to your text analysis group.
+* Research collaboratory focused on final project (bring your computers!).   
 
 #### 11/3/2016 Thursday: Text Analysis in R   
 
@@ -335,7 +343,7 @@ _Prepare for Class:_
 
 _In class:_   
 
-* Chapters in Jockers or Arnold and Tilton assigned to your text analysis group.    
+* Research collaboratory focused on final project (bring your computers!).    
 * Research collaboratory groups finalized and first set of individualized assignments distributed in preparation for your research group’s first research collaboratory.
 
 
