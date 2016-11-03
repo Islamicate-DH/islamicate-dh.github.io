@@ -344,8 +344,10 @@ _Prepare for Class:_
 *John:* Explore MADAMIRA.     
 *Aysha:* Explore topic modeling options.    
 *Jake:* Finalize Arabic newspaper sources and their date ranges.    
-*Tobias:* Continue scrapping from sites on spreadsheet.
-
+*Tobias:* Continue scrapping from sites on spreadsheet.    
+*Thomas and saroosh:* Write script to produce word counts.    
+*Christoph and Franzi:* Read about topic modeling and develop conceptional research questions related to *tafsir* and their authors.    
+*Jonathan:* Prepare the scraping tool for Tuesday.   
 
 _In class:_   
 
@@ -364,7 +366,9 @@ _Prepare for Class:_
 *John:* work on MADAMIRA and sandbox tool.     
 *Tobias:* continue refining scraping.   
 *Aysha:* exploratory topic modeling and stemming.    
-*Jake:* exploratory topic modeling.
+*Jake:* exploratory topic modeling.   
+*Sarosh & Thomas:* Develop a R script to get data from the yaml files into one csv file.     
+*Franzi:* Develop ideas about which parts of the Quran and which Sects/Schools we should focus on.   
 
 _In class:_   
 
