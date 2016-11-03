@@ -339,7 +339,13 @@ _In class:_
 
 _Prepare for Class:_   
 
-* Chapters in Jockers or Arnold and Tilton assigned to your text analysis group.   
+* Task assigned to you by your research group in previous collaboratory:    
+
+*John:* Explore MADAMIRA. 
+*Aysha:* Explore topic modeling options.
+*Jake:* Finalize Arabic newspaper sources and their date ranges.
+*Tobias:* Continue scrapping from sites on spreadsheet.
+
 
 _In class:_   
 
@@ -353,7 +359,12 @@ _In class:_
 
 _Prepare for Class:_   
 
-* Task assigned to you by your research group in previous collaboratory.   
+* Task assigned to you by your research group in previous collaboratory:   
+
+*John:* work on MADAMIRA and sandbox tool.   
+*Tobias:* continue refining scraping.
+*Aysha:* exploratory topic modeling and stemming. 
+*Jake:* exploratory topic modeling.
 
 _In class:_   
 
