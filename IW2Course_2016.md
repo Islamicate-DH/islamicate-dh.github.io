@@ -341,9 +341,9 @@ _Prepare for Class:_
 
 * Task assigned to you by your research group in previous collaboratory:    
 
-*John:* Explore MADAMIRA. 
-*Aysha:* Explore topic modeling options.
-*Jake:* Finalize Arabic newspaper sources and their date ranges.
+*John:* Explore MADAMIRA.     
+*Aysha:* Explore topic modeling options.    
+*Jake:* Finalize Arabic newspaper sources and their date ranges.    
 *Tobias:* Continue scrapping from sites on spreadsheet.
 
 
@@ -361,9 +361,9 @@ _Prepare for Class:_
 
 * Task assigned to you by your research group in previous collaboratory:   
 
-*John:* work on MADAMIRA and sandbox tool.   
-*Tobias:* continue refining scraping.
-*Aysha:* exploratory topic modeling and stemming. 
+*John:* work on MADAMIRA and sandbox tool.     
+*Tobias:* continue refining scraping.   
+*Aysha:* exploratory topic modeling and stemming.    
 *Jake:* exploratory topic modeling.
 
 _In class:_   
