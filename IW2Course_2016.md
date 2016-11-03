@@ -347,7 +347,7 @@ _Prepare for Class:_
 *Tobias:* Continue scrapping from sites on spreadsheet.    
 *Thomas and saroosh:* Write script to produce word counts.    
 *Christoph and Franzi:* Read about topic modeling and develop conceptional research questions related to *tafsir* and their authors.    
-*Jonathan:* Prepare the scraping tool for Tuesday.   
+*Jonathan:* Work on producing a virtual box so group can use Linux (and thus does not have to transliterate the Arabic texts into Latin characters) (to be done by 11/8).      
 
 _In class:_   
 
@@ -368,7 +368,8 @@ _Prepare for Class:_
 *Aysha:* exploratory topic modeling and stemming.    
 *Jake:* exploratory topic modeling.   
 *Sarosh & Thomas:* Develop a R script to get data from the yaml files into one csv file.     
-*Franzi:* Develop ideas about which parts of the Quran and which Sects/Schools we should focus on.   
+*Franzi:* Develop ideas about which parts of the Quran and which Sects/Schools we should focus on.  
+*Jonathan:* Work on producing a virtual box so group can use Linux (and thus does not have to transliterate the Arabic texts into Latin characters) (to be done by 11/8).
 
 _In class:_   
 
