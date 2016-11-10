@@ -379,7 +379,11 @@ _In class:_
 
 _Prepare for Class:_   
 
-* Task assigned to you by your research group in previous collaboratory.   
+* Task assigned to you by your research group in previous collaboratory:   
+
+*Sarosh and Thom:* Run different word frequency analyses as outlined in Jockers on tafaseer.   
+*Jonathon:* CSV file, stay gold.   
+
 
 _In class:_   
 
@@ -392,7 +396,7 @@ _In class:_
 
 _Prepare for Class:_   
 
-* Task assigned to you by your research group in previous collaboratory.   
+* Task assigned to you by your research group in previous collaboratory:   
 
 _In class:_   
 
