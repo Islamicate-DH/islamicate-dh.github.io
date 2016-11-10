@@ -396,7 +396,16 @@ _In class:_
 
 _Prepare for Class:_   
 
-* Task assigned to you by your research group in previous collaboratory:   
+* Task assigned to you by your research group in previous collaboratory:    
+
+*Maryam:* investigating correlation with antconc.   
+*Jonathon:* run first round of topic modeling.    
+*Thom:* run most frequent word frequencies.    
+*Franziska:* background research, overview.   
+*John:* literature review and Linux set-up/Months.   
+*Aysha:* find archive links for each newspaper.    
+*Jacob:* search Middle Eastern Studies databases for literature review on Arab Spring.    
+*Tobias:* continue scraping and working with csv files.    
 
 _In class:_   
 
