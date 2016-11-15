@@ -398,10 +398,10 @@ _Prepare for Class:_
 
 * Task assigned to you by your research group in previous collaboratory:    
 
-*Maryam:* investigating correlation with antconc.   
-*Jonathon:* run first round of topic modeling.    
+*Maryam:* investigating correlation with antconc and overview of authors' time and space coordinates.    
+*Jonathon:* run first round of topic modeling and figure out how much computing power different things need.     
 *Thom:* run most frequent word frequencies.    
-*Franziska:* background research, overview.   
+*Franziska:* background research, overview; talk to Prof. Ebert regarding current discussions in the field.   
 *John:* literature review and Linux set-up/Months.   
 *Aysha:* find archive links for each newspaper.    
 *Jacob:* search Middle Eastern Studies databases for literature review on Arab Spring.    
@@ -415,7 +415,15 @@ _In class:_
 
 _Prepare for Class:_   
 
-* Task assigned to you by your research group in previous collaboratory.   
+* Task assigned to you by your research group in previous collaboratory:    
+
+*Jonathon:* Work on ToPan with Thomas.    
+*Thom & Sarosh:* Topic Modeling using script from Matthew Miller; MFW.    
+*Maryam:* Research and prepare options for Topic Modeling Visualization.    
+*John:* MFW counts for each newspaper.    
+*Aysha:* scrape 2012 data from almasri alyom and prepare options for Topic Modeling Visualization.    
+*Jacob:* scrape 2013 data from almasri alyom and prepare options for Topic Modeling Visualization.    
+*Tobias:* continue scraping 2010-11 data and send John arabic stemmer and MFW script.    
 
 _In class:_   
 
