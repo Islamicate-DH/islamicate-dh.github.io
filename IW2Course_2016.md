@@ -436,6 +436,7 @@ _In class:_
 
 _Prepare for Class:_   
 
+* By today's class, all groups need to submit a final project proposal to the instructors. This proposal should include three parts: (1) a 1-page overview of the topic on which you are proposing to work; (2) a timeline for the completion of each phase of the work (which the instructors will need to approve); and (3) a detailed list of tasks for which each group member will be responsible. After you have submitted these, the instructors will review them together and send you our feedback, recommendations, and expectations for your final project, and we will discuss all of this in class on Tuesday, Nov. 29th.    
 * Task assigned to you by your research group in previous collaboratory.   
 
 _In class:_   
