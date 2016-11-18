@@ -439,9 +439,13 @@ _Prepare for Class:_
 * By today's class, all groups need to submit a final project proposal to the instructors. This proposal should include three parts: (1) a 1-page overview of the topic on which you are proposing to work; (2) a timeline for the completion of each phase of the work (which the instructors will need to approve); and (3) a detailed list of tasks for which each group member will be responsible. After you have submitted these, the instructors will review them together and send you our feedback, recommendations, and expectations for your final project, and we will discuss all of this in class on Tuesday, Nov. 29th.    
 * Task assigned to you by your research group in previous collaboratory:    
 
-Thom and Sarosh: continue exploratory data analysis with topic modeling and stylo.    
-Jonathan: Be on call for tech support.    
-Franzi: work on author identification, style, etc. for the introduction for the paper.
+*Thom and Sarosh:* continue exploratory data analysis with topic modeling and stylo.    
+*Jonathan:* Be on call for tech support.    
+*Franzi:* work on author identification, style, etc. for the introduction for the paper.   
+*Aysha:* Remove extra years from scraped csv data.    
+*John:* Continue trying to get the mfw analyses to work.    
+*Jake:* Work on project overview for proposal + follow up on topan issues    
+*Tobias:* Keep working with Matt's topic modeling script.     
 
 _In class:_   
 
