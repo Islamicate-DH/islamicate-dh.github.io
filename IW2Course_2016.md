@@ -460,7 +460,20 @@ _In class:_
 
 _Prepare for Class:_   
 
-* Task assigned to you by your research group in previous collaboratory.   
+* Task assigned to you by your research group in previous collaboratory:    
+
+Sarosh: Researching about additional useful methods that are good to use for arabic texts
+
+Thom: TM again as well with his topics
+
+Jonathan: To-Pan work
+
+*Franzi:* clean data (excel), gather information about Tabari and Ibn Kathir, al-Razi and his connections.   
+*All in Tafsir group:* research text re-use, madhhabs and their effect on tafsir quality and erudition, and the proposal.    
+*John:* complete MFWs, histogram for each paper, and transliteration scheme and refine wordclouds.    
+*Aysha:* work on lit review (introduction to Arab Spring and Arab media and similar studies outside of Arabic).    
+*Jacob:* work on ToPan, provide feedback on visualizations, and help with lit review.    
+*Tobias:* work on formatting issues (missing lines) and finding a way to compare topic modeling visualizations between papers.    
 
 _In class:_   
 
