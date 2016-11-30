@@ -483,7 +483,14 @@ _In class:_
 
 _Prepare for Class:_    
 
-* Task assigned to you by your research group in previous collaboratory.   
+* Task assigned to you by your research group in previous collaboratory:    
+
+*John:* create word clouds and histograms with relative frequencies and work on excel topic sheets.    
+*Aysha:* complete literature review and review paper draft.    
+*Jacob:* complete literature review and work on excel topic sheets.    
+*Tobias:* re-organize spreadsheets based on topics of interest.    
+*Thom:* work on visualization of topic modeling and Stylo analyses with character n-grams.    
+*Sarosh:* produce character count per verse relative to Tafsir length for each author in Corpus.     
 
 _In class:_   
 
