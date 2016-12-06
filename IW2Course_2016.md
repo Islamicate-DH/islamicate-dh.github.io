@@ -503,7 +503,16 @@ _In class:_
 
 _Prepare for Class:_   
 
-* Task assigned to you by your research group in previous collaboratory.   
+* Task assigned to you by your research group in previous collaboratory:    
+
+*John:* close reading of relevant articles from topics in  AlmasriAlyoum and Alwatan and write 1 page brief.    
+*Jacob:* close reading of relevant articles from topics in  Hespress and Tharwa and 1 page brief.    
+*Aysha:* ranking of topic relevancy for each newspaper and revise literature review.    
+*Tobias:* code documentation.    
+*Thom:* write literature review.    
+*Sarosh:*  topic modeling.      
+*Jonathan:* document code.    
+
 
 _In class:_    
 
