@@ -524,6 +524,8 @@ _Prepare for Class:_
 
 * Task assigned to you by your research group in previous collaboratory.   
 
+*All:* work on final projects!    
+
 _In class:_   
 
 * Research collaboratory focused on final project (bring your computers!).   
