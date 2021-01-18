@@ -27,8 +27,12 @@ description: Enter site description here
 navbar-links:
   About: "about"
   Islamicate World 2.0 Course:
-    - Syllabus: "IW2Course_2016"
-    - Addenda: "IW2Course_2016_addenda"
+    - 2016 Syllabus: "IW2Course_2016"
+    - 2016 Addenda: "IW2Course_2016_addenda"
+    - 2021 Syllabus: "IW2Course_2021"
+  Digital Palography & Codicology: "Digital Palography & Codicology"
+    - About: "AboutDPC"
+    - 2021 Syllabus: "DPCSyllabus_2021"
   Text Tools:
     - AntCont: "http://www.laurenceanthony.net/software/antconc/"
     - Word Frequency Gen: "http://www.writewords.org.uk/word_count.asp"
