@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: Islamicate Digital Hummanities (I-DH)
+subtitle: Islamicate Digital Humanities (I-DH)
 ---
 
 The **Islamicate-DH (I-DH)** site is a clearinghouse for news and pedagogical resources related to the Islamicate Digital Humanities (I-DH). It will also be the home to the exciting new Global Classrooms course, _The Islamicate World 2.0: Studying Islamic Cultures through Computational Textual Analysis_, which will be offered for the first time in the fall of 2016 through the University of Maryland (College Park) and Universität Leipzig. It is our hope that these course materials and other "How-To" articles that we publish at the I-DH site will aid you in becoming an "I-DHer" (Islamicate Digital Humanist).
