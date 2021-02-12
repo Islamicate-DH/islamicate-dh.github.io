@@ -3,6 +3,8 @@ layout: page
 title: Resources and Repositories
 subtitle: 
 ---
+Archival Repositories
+---
 The following is a non-comprehensive list of important repositories of digitized Islamicate manuscripts (including some either not in Arabic script or only partially in Arabic script, such as dual-language Coptic texts); note that these collections vary greatly in technical terms and particularly in terms of access. Some permit full downloads of texts in various formats (some image-by-image, others in PDF format, and some with IIIF), while others only permit in-browser viewing.
 
 1. [Bibliothèque nationale de France][1]    
@@ -23,16 +25,18 @@ The following is a non-comprehensive list of important repositories of digitized
 16. [McGill Lithographs][16]
 17. [Library of Congress][17]
 
+Course Printed Resources
+----
 The following secondary sources will make up most of the course readings, primarily as excerpts; all will be made available as either complete e-books or in PDF excerpts:
 
-Bausi, Alessandro. <i>Comparative Oriental Manuscript Studies : An Introduction.</i> Hamburg, Germany: COMSt, Comparative Oriental Manuscript Studies, 2015.
-Blair, Sheila. Islamic Calligraphy. Edinburgh: Edinburgh University Press, 2008.
-Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.
-Gacek, Adam. The Arabic Manuscript Tradition: A Glossary of Technical Terms and Bibliography. Leiden ; Brill, 2001.
-Hanaway, William L. Reading Nasta’liq: Persian and Urdu Hands from 1500 to the Present. Costa Mesa, Calif.: Mazda Publishers, 2007.
-Lit, L. W. C. van. Among Digitized Manuscripts: Philology, Codicology, Paleography in a Digital World. Leiden; Boston: Brill, 2020.
-Quenzer, Jörg B., Dmitry Bondarev, and Jan-Ulrich Sobisch. Manuscript Cultures: Mapping the Field. Studies in Manuscript Cultures; Volume 1. Berlin: De Gruyter, 2014. https://doi.org/10.1515/9783110225631.
-Reychman, Jan. Handbook of Ottoman-Turkish Diplomatics. The Hague: Mouton, 1968.
+1. Blair, Sheila. <i>Islamic Calligraphy</i>. Edinburgh: Edinburgh University Press, 2008.
+2. Gacek, Adam. <i>Arabic Manuscripts: A Vademecum for Readers</i>. Leiden: Brill, 2009.
+3. Gacek, Adam. <i>The Arabic Manuscript Tradition: A Glossary of Technical Terms and Bibliography.</i> Leiden ; Brill, 2001.
+4. Hanaway, William L. <i>Reading Nasta’liq: Persian and Urdu Hands from 1500 to the Present.</i> Costa Mesa, Calif.: Mazda Publishers, 2007.
+5. Lit, L. W. C. van. <i>Among Digitized Manuscripts: Philology, Codicology, Paleography in a Digital World.</i> Leiden; Boston: Brill, 2020.
+6. Quenzer, Jörg B., Dmitry Bondarev, and Jan-Ulrich Sobisch<i>. Manuscript Cultures: Mapping the Field.</i> Studies in Manuscript Cultures; Volume 1. Berlin: De Gruyter, 2014. https://doi.org/10.1515/9783110225631.
+7. Reychman, Jan. <i>Handbook of Ottoman-Turkish Diplomatics.</i> The Hague: Mouton, 1968.
+8. Bausi, Alessandro. <i>Comparative Oriental Manuscript Studies: An Introduction.</i> Hamburg, Germany: COMSt, Comparative Oriental Manuscript Studies, 2015. 
 
 
 [1]: https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop/ "Bibliothèque nationale de France"
