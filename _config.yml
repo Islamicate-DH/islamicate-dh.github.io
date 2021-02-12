@@ -30,7 +30,7 @@ navbar-links:
     - 2016 Syllabus: "IW2Course_2016"
     - 2016 Addenda: "IW2Course_2016_addenda"
     - 2021 Syllabus: "IW2Course_2021"
-  Digital Paleography & Codicology: "Digital Palography & Codicology"
+  Digital Paleography & Codicology: 
     - About: "AboutDPC"
     - 2021 Syllabus: "DPCSyllabus_2021"
   Text Tools:
