@@ -3,7 +3,7 @@ layout: page
 title: About
 subtitle: Digital Paleography and Codicology Summer Course
 ---
-![inscription](https://content.staatsbibliothek-berlin.de/dms/PPN1669560864/1200/0/00000005.jpg#center)
+![manuscript](https://lh3.googleusercontent.com/pw/ACtC-3dXW_-Jl0XedAD5iKG7lGejZarheOblzLU26jeTztILe1LdT7dtbEMtj6P5MWMeGhIS11oXIj2r9XT9qMfIAODtAXgqSInZXERbiLTnH1Gb1BYFqN4BkaXQMdM8BUIbBU8drvcoa2AzfN9up2Hrw2eB=w2578-h1484-no?authuser=0#center)
 
 This summer course will run from June 1st to August 20th, and will provide students a unique opportunity to learn about the Arabic script manuscript tradition as a whole, its paleographic and codicological features, and digital humanist tools and methods especially suited to paleographic and codicological concerns. All of these components will be treated in a unitary and mutually reinforcing manner, such that by the end of the course students will have gained both knowledge and practical experience in the use and understanding of the Arabic script manuscript tradition along with digital tools and techniques that will both facilitate this understanding and transform how students interact with and think about manuscripts. Students will be exposed to the full breadth of the Arabic script tradition, from West Africa to China, in both the 'classical' languages of Arabic, Persian, and Ottoman Turkish as well as examples of vernaculars written in Arabic script, with special focus given to script traditions often treated as 'marginal.' While manuscripts will be our primary focus, time will also be devoted to the vast but underappreciated output of lithographed texts in the 19th and 20th centuries, books which in many ways partake of manuscript culture and often entail some level of paleographic knowledge to read.
 
@@ -15,14 +15,15 @@ The total time commitment expected of course participants is approximately fifte
    
 
 Learning Objectives:
+-------
 By the end of the course, students will have learned:
-The fundamentals of Arabic-script paleography and codicology, including:
-The diversity of scripts, styles, and individual hands
-Issues of text layout and scribal practices in Arabic script manuscripts 
-The intersection of philological and paleographic concerns 
-The geographic and chronological extent of the Arabic-script manuscript tradition and its major subdivisions
-How to use digital tools to transcribe manuscripts and annotate their structural features
-How to access and make use of digital repositories of manuscripts
-The broader theoretical, methodological, and ethical concerns associated with digital codicology
+1. The fundamentals of Arabic-script paleography and codicology, including:
+2. The diversity of scripts, styles, and individual hands
+3. Issues of text layout and scribal practices in Arabic script manuscripts 
+4. The intersection of philological and paleographic concerns 
+5. The geographic and chronological extent of the Arabic-script manuscript tradition and its major subdivisions
+6. How to use digital tools to transcribe manuscripts and annotate their structural features
+7. How to access and make use of digital repositories of manuscripts
+8. The broader theoretical, methodological, and ethical concerns associated with digital codicology
 
-![manuscript](https://lh3.googleusercontent.com/pw/ACtC-3dXW_-Jl0XedAD5iKG7lGejZarheOblzLU26jeTztILe1LdT7dtbEMtj6P5MWMeGhIS11oXIj2r9XT9qMfIAODtAXgqSInZXERbiLTnH1Gb1BYFqN4BkaXQMdM8BUIbBU8drvcoa2AzfN9up2Hrw2eB=w2578-h1484-no?authuser=0#center)
+![inscription](https://content.staatsbibliothek-berlin.de/dms/PPN1669560864/1200/0/00000005.jpg#center)
