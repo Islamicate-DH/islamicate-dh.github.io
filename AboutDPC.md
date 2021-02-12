@@ -3,7 +3,7 @@ layout: page
 title: About
 subtitle: Digital Paleography and Codicology Summer Course
 ---
-![inscription](https://pbs.twimg.com/media/EuDDWOfXAAUcjPq?format=jpg&name=900x900)
+![inscription](https://pbs.twimg.com/media/EuDDWOfXAAUcjPq?format=jpg&name=900x900#center)
 
 This summer course will run from June 1st to August 20th, and will provide students a unique opportunity to learn about the Arabic script manuscript tradition as a whole, its paleographic and codicological features, and digital humanist tools and methods especially suited to paleographic and codicological concerns. All of these components will be treated in a unitary and mutually reinforcing manner, such that by the end of the course students will have gained both knowledge and practical experience in the use and understanding of the Arabic script manuscript tradition along with digital tools and techniques that will both facilitate this understanding and transform how students interact with and think about manuscripts. Students will be exposed to the full breadth of the Arabic script tradition, from West Africa to China, in both the 'classical' languages of Arabic, Persian, and Ottoman Turkish as well as examples of vernaculars written in Arabic script, with special focus given to script traditions often treated as 'marginal.' 
 
