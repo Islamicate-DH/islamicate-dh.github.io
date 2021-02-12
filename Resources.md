@@ -4,24 +4,24 @@ title: Resources and Repositories
 subtitle: 
 ---
 The following is a non-comprehensive list of important repositories of digitized Islamicate manuscripts (including some either not in Arabic script or only partially in Arabic script, such as dual-language Coptic texts); note that these collections vary greatly in technical terms and particularly in terms of access. Some permit full downloads of texts in various formats (some image-by-image, others in PDF format, and some with IIIF), while others only permit in-browser viewing.
-----
+
 1. [Bibliothèque nationale de France][1]    
-2. Chester Beatty Library        
-3. Leipzig University Library         
-4. Princeton University Library        
-5. OPenn   
-6. Hill Manuscript Museum and Library
-7. Endangered Archives Programme     
-8. Staatsbibliothek zu Berlin
-9. The Digital Walters            
-10. University of Michigan Library 
-11. Oriental Manuscript Resource (OMAR)
-12. The West African Arabic Manuscript Database (WAAMD)
-13. Leiden University Libraries
-14. Islamic Heritage Project (Harvard)
-15. Qatar Digital Library 
-16. McGill Lithographs
-17. Library of Congress
+2. [Chester Beatty Library][2]        
+3. [Leipzig University Library][3]         
+4. [Princeton University Library][4]        
+5. [OPenn][5]   
+6. [Hill Manuscript Museum and Library][6]
+7. [Endangered Archives Programme][7]     
+8. [Staatsbibliothek zu Berlin][8]
+9. [The Digital Walters][9]            
+10. [University of Michigan Library][10] 
+11. [Oriental Manuscript Resource (OMAR)][11]
+12. [The West African Arabic Manuscript Database (WAAMD)][12]
+13. [Leiden University Libraries][13]
+14. [Islamic Heritage Project (Harvard)][14]
+15. [Qatar Digital Library][15] 
+16. [McGill Lithographs][16]
+17. [Library of Congress][17]
 
 The following secondary sources will make up most of the course readings, primarily as excerpts; all will be made available as either complete e-books or in PDF excerpts:
 
