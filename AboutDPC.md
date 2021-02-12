@@ -25,3 +25,4 @@ How to use digital tools to transcribe manuscripts and annotate their structural
 How to access and make use of digital repositories of manuscripts
 The broader theoretical, methodological, and ethical concerns associated with digital codicology
 
+![manuscript](https://lh3.googleusercontent.com/pw/ACtC-3dXW_-Jl0XedAD5iKG7lGejZarheOblzLU26jeTztILe1LdT7dtbEMtj6P5MWMeGhIS11oXIj2r9XT9qMfIAODtAXgqSInZXERbiLTnH1Gb1BYFqN4BkaXQMdM8BUIbBU8drvcoa2AzfN9up2Hrw2eB=w2578-h1484-no?authuser=0#center)
