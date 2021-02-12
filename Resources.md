@@ -23,6 +23,18 @@ The following is a non-comprehensive list of important repositories of digitized
 16. McGill Lithographs
 17. Library of Congress
 
+The following secondary sources will make up most of the course readings, primarily as excerpts; all will be made available as either complete e-books or in PDF excerpts:
+
+Bausi, Alessandro. <i>Comparative Oriental Manuscript Studies : An Introduction.</i> Hamburg, Germany: COMSt, Comparative Oriental Manuscript Studies, 2015.
+Blair, Sheila. Islamic Calligraphy. Edinburgh: Edinburgh University Press, 2008.
+Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.
+Gacek, Adam. The Arabic Manuscript Tradition: A Glossary of Technical Terms and Bibliography. Leiden ; Brill, 2001.
+Hanaway, William L. Reading Nasta’liq: Persian and Urdu Hands from 1500 to the Present. Costa Mesa, Calif.: Mazda Publishers, 2007.
+Lit, L. W. C. van. Among Digitized Manuscripts: Philology, Codicology, Paleography in a Digital World. Leiden; Boston: Brill, 2020.
+Quenzer, Jörg B., Dmitry Bondarev, and Jan-Ulrich Sobisch. Manuscript Cultures: Mapping the Field. Studies in Manuscript Cultures; Volume 1. Berlin: De Gruyter, 2014. https://doi.org/10.1515/9783110225631.
+Reychman, Jan. Handbook of Ottoman-Turkish Diplomatics. The Hague: Mouton, 1968.
+
+
 [1]: https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop/ "Bibliothèque nationale de France"
 [2]: https://chesterbeatty.ie/ "Chester Beatty Library"
 [3]: https://www.islamic-manuscripts.net/content/index.xml "Leipzig University Library "
