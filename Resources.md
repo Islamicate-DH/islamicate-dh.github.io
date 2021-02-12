@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources and Repositories
-subtitle:
+subtitle: Links
 ---
 The following is a non-comprehensive list of important repositories of digitized Islamicate manuscripts (including some either not in Arabic script or only partially in Arabic script, such as dual-language Coptic texts); note that these collections vary greatly in technical terms and particularly in terms of access. Some permit full downloads of texts in various formats (some image-by-image, others in PDF format, and some with IIIF), while others only permit in-browser viewing.
 
