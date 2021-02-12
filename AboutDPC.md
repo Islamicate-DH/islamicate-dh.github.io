@@ -3,7 +3,7 @@ layout: page
 title: About
 subtitle: Digital Paleography and Codicology Summer Course
 ---
-<img src="item_2433811_JP2_ca529fd503c649b5d3f6d4bc77294da88e3ac755efb3015e2f195327253cc106_default">
+![inscription](https://pbs.twimg.com/media/EuDDWOfXAAUcjPq?format=jpg&name=900x900)
 
 This summer course will run from June 1st to August 20th, and will provide students a unique opportunity to 
 
