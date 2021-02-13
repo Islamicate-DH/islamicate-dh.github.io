@@ -20,9 +20,8 @@ The total time commitment expected of course participants is approximately fifte
 
 Learning Objectives:
 -------
-By the end of the course, students will have learned:
+By the end of the course, students will have learned the fundamentals of Arabic-script paleography and codicology, including:
 
-The fundamentals of Arabic-script paleography and codicology, including:
 1. The diversity of scripts, styles, and individual hands
 2. Issues of text layout and scribal practices in Arabic script manuscripts 
 3. The intersection of philological and paleographic concerns 
