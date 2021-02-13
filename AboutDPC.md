@@ -3,10 +3,9 @@ layout: page
 title: About
 subtitle: Digital Paleography and Codicology Summer Course
 ---
-<center><img src="https://lh3.googleusercontent.com/PtzQDf1HvCGDmIByjM_rElVfyR-TOr6OOclvRXlO7-5E0XBv8Zg-tpJZYmKS4OV5mHSDXBQNuww8JKgblgt3EUpJkCoOj2VTWOSCPnj2irJMMhPttgHyoZEFK_74piPsrE74p-sOMMXLuUAGt6O9SMpb-qBST7Q5u7PxN3airwuIHYfmpwZFXMcljwy-YClV2vIAtpxzPjScQQbm42svaEbJ4HheK0Y2Cw3nH6qOwWicFCZ1DJhYO6iCFHSR3i6kSIDaQtwegNnrZs5JNByBB7tpHe8wDfJ42AvTx9TbdtcldOp6sF3qLqFo3ZFT8oBBmaWfD4hz0s5ly5V4VscC8QHgRBw8LSqH_RP-_Y5jMbPUdHgLB2jcAufsVK13DL4GBf2EYPhEFR72yd3FC0o4MCwF5N9PvDRqDvRXVd7RDGtuSrp89AU_JOhcLSqcBuaX6zut9721Yf5wE62D9e5JyzdOpz0lNnfiyR_yBH_rA42p5BNIroxk8386Lv5TG4Re5oUSoeuzoNkvANF9jDm-tazx8c2mhGwzfQhA5s5wpk35tiEA0cI2WejNns9Id_naCANgUuGOy3BuSwlkfS2aU6OtTIkKnfPx2-lNYdGOscxOCPgDOeuSUMFFxvW70YiSlt8QAhTj-HKjdmObyi6atLEzCw9OoBKT8iGee-8mlLcWFQJUIOVlGluky4LSaQ=w1072-h1606-no?authuser=0" width="500"></center>
+<center><img src="https://lh3.googleusercontent.com/PtzQDf1HvCGDmIByjM_rElVfyR-TOr6OOclvRXlO7-5E0XBv8Zg-tpJZYmKS4OV5mHSDXBQNuww8JKgblgt3EUpJkCoOj2VTWOSCPnj2irJMMhPttgHyoZEFK_74piPsrE74p-sOMMXLuUAGt6O9SMpb-qBST7Q5u7PxN3airwuIHYfmpwZFXMcljwy-YClV2vIAtpxzPjScQQbm42svaEbJ4HheK0Y2Cw3nH6qOwWicFCZ1DJhYO6iCFHSR3i6kSIDaQtwegNnrZs5JNByBB7tpHe8wDfJ42AvTx9TbdtcldOp6sF3qLqFo3ZFT8oBBmaWfD4hz0s5ly5V4VscC8QHgRBw8LSqH_RP-_Y5jMbPUdHgLB2jcAufsVK13DL4GBf2EYPhEFR72yd3FC0o4MCwF5N9PvDRqDvRXVd7RDGtuSrp89AU_JOhcLSqcBuaX6zut9721Yf5wE62D9e5JyzdOpz0lNnfiyR_yBH_rA42p5BNIroxk8386Lv5TG4Re5oUSoeuzoNkvANF9jDm-tazx8c2mhGwzfQhA5s5wpk35tiEA0cI2WejNns9Id_naCANgUuGOy3BuSwlkfS2aU6OtTIkKnfPx2-lNYdGOscxOCPgDOeuSUMFFxvW70YiSlt8QAhTj-HKjdmObyi6atLEzCw9OoBKT8iGee-8mlLcWFQJUIOVlGluky4LSaQ=w1072-h1606-no?authuser=0" width="450"></center>
 
-<center>Course Overview</center>
-----
+<center>**Course Overview**</center>
 
 This summer course will run from June 1st to August 20th, and will provide students a unique opportunity to learn about the Arabic script manuscript tradition as a whole, its paleographic and codicological features, and digital humanist tools and methods especially suited to paleographic and codicological concerns. All of these components will be treated in a unitary and mutually reinforcing manner, such that by the end of the course students will have gained both knowledge and practical experience in the use and understanding of the Arabic script manuscript tradition along with digital tools and techniques that will both facilitate this understanding and transform how students interact with and think about manuscripts. Students will be exposed to the full breadth of the Arabic script tradition, from West Africa to China, in both the 'classical' languages of Arabic, Persian, and Ottoman Turkish as well as examples of vernaculars written in Arabic script, with special focus given to script traditions often treated as 'marginal.' While manuscripts will be our primary focus, time will also be devoted to the vast but underappreciated output of lithographed texts in the 19th and 20th centuries, books which in many ways partake of manuscript culture and often entail some level of paleographic knowledge to read.
 
@@ -30,4 +29,4 @@ By the end of the course, students will have learned:
 7. How to access and make use of digital repositories of manuscripts
 8. The broader theoretical, methodological, and ethical concerns associated with digital codicology
 
-![inscription](https://content.staatsbibliothek-berlin.de/dms/PPN1669560864/1200/0/00000005.jpg#center)
+<center><img src="https://content.staatsbibliothek-berlin.de/dms/PPN1669560864/1200/0/00000005.jpg" width="400"></center>
