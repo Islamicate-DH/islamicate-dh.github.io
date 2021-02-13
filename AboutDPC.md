@@ -31,4 +31,4 @@ The fundamentals of Arabic-script paleography and codicology, including:
 6. How to access and make use of digital repositories of manuscripts
 7. The broader theoretical, methodological, and ethical concerns associated with digital codicology
 
-<center><img src="/islamicate-dh.github.io/img/nastaliq.jpg" width="300"></center>
+<center><img src="/islamicate-dh.github.io/img/nastaliq.jpg" width="500"></center>
