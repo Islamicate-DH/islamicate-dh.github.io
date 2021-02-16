@@ -22,15 +22,16 @@ The total time commitment expected of course participants is approximately fifte
 
 Learning Objectives:
 -------
-By the end of the course, students will have learned the fundamentals of Arabic-script paleography and codicology, including:
+By the end of the course, students will have learned the fundamentals of Arabic-script paleography and codicology as well as the applicable digital humanist tools and methods, including:
 
 1. The diversity of scripts, styles, and individual hands
 2. Issues of text layout and scribal practices in Arabic script manuscripts 
 3. The intersection of philological and paleographic concerns 
-4. The geographic and chronological extent of the Arabic-script manuscript tradition and its major subdivisions
+4. The geographic and chronological extent of the Arabic-script manuscript tradition and digital tools relevant to geographical analysis
 5. How to use digital tools to transcribe manuscripts and annotate their structural features
 6. How to access and make use of digital repositories of manuscripts
 7. The broader theoretical, methodological, and ethical concerns associated with digital codicology
+8. New applications and directions in the application of machine learning, artificial intelligence, and other technologies to the field of Islamicate manuscript studies
 
 Selection Criteria for Course:
 -----
@@ -44,7 +45,7 @@ Given the historical lack of diversity in the fields of Persian, Arabic, and Isl
 
 All applications will be reviewed by Dr. Miller and Dr. Allen.
 
-    Please direct applications to Dr. Jonathan Parkes Allen: jallen22@umd.edu.
------
+    <b>Please direct applications to Dr. Jonathan Parkes Allen: jallen22@umd.edu.</b>
+
 
 <center><img src="/islamicate-dh.github.io/img/nastaliq2.jpg" width="400"></center>
