@@ -3,7 +3,7 @@ layout: page
 title: Syllabus
 subtitle: Summer 2021
 ---
-
+The following is only a preliminary sketch and is subject to change; student interests and existing strengths will also be taken into account in the actual proceeding of the course. 
 
 * **Week 1 (June 1-4):** Introduction to Arabic-Script Paleography and Digital Codicology
     * Script: An Overview of Script Development, Scribal Practices, and Features in Script Recognition
