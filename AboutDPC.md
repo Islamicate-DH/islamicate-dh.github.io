@@ -35,7 +35,7 @@ By the end of the course, students will have learned the fundamentals of Arabic-
 
 Selection Criteria for Course:
 -----
-We ask that applicants submit via email (see below) **a CV and cover letter** detailing their interest in this course and how it will advance their research in the future. While students are not expected to have had previous training in paleography or digital annotation, in order to be selected for the course, students must:
+We ask that applicants submit via email (see below) **a CV and cover letter** detailing their interest in this course and how it will advance their research in the future. Submissions will be accepted until **March 15th**, and acceptance decisions will be conveyed by **March 20th**. While students are not expected to have had previous training in paleography or digital annotation, in order to be selected for the course, students must:
 
 1. be currently enrolled in a masters or doctoral program; 
 2. have demonstrated reading competency in Arabic, Persian, or preferably both;
