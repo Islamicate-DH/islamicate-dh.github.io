@@ -34,8 +34,7 @@ navbar-links:
     - About: "AboutDPC"
     - 2021 Syllabus: "DPCSyllabus_2021"
     - Islamicate Manuscript Repositories and Resources: "Resources"
-  Automatic Collation for Diversifying Corpora:
-    - About: "AboutACDC"
+    - Automatic Collation for Diversifying Corpora: "AboutACDC"
   Text Tools:
     - AntCont: "http://www.laurenceanthony.net/software/antconc/"
     - Word Frequency Gen: "http://www.writewords.org.uk/word_count.asp"
