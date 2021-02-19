@@ -3,7 +3,7 @@ layout: page
 title: About
 subtitle: Digital Islamicate Paleography and Codicology Summer Course
 ---
-<center><img src="https://lh3.googleusercontent.com/PtzQDf1HvCGDmIByjM_rElVfyR-TOr6OOclvRXlO7-5E0XBv8Zg-tpJZYmKS4OV5mHSDXBQNuww8JKgblgt3EUpJkCoOj2VTWOSCPnj2irJMMhPttgHyoZEFK_74piPsrE74p-sOMMXLuUAGt6O9SMpb-qBST7Q5u7PxN3airwuIHYfmpwZFXMcljwy-YClV2vIAtpxzPjScQQbm42svaEbJ4HheK0Y2Cw3nH6qOwWicFCZ1DJhYO6iCFHSR3i6kSIDaQtwegNnrZs5JNByBB7tpHe8wDfJ42AvTx9TbdtcldOp6sF3qLqFo3ZFT8oBBmaWfD4hz0s5ly5V4VscC8QHgRBw8LSqH_RP-_Y5jMbPUdHgLB2jcAufsVK13DL4GBf2EYPhEFR72yd3FC0o4MCwF5N9PvDRqDvRXVd7RDGtuSrp89AU_JOhcLSqcBuaX6zut9721Yf5wE62D9e5JyzdOpz0lNnfiyR_yBH_rA42p5BNIroxk8386Lv5TG4Re5oUSoeuzoNkvANF9jDm-tazx8c2mhGwzfQhA5s5wpk35tiEA0cI2WejNns9Id_naCANgUuGOy3BuSwlkfS2aU6OtTIkKnfPx2-lNYdGOscxOCPgDOeuSUMFFxvW70YiSlt8QAhTj-HKjdmObyi6atLEzCw9OoBKT8iGee-8mlLcWFQJUIOVlGluky4LSaQ=w1072-h1606-no?authuser=0" width="400"></center>
+<center><img src="/islamicate-dh.github.io/img/paleographycanvas.jpg" width="400"></center>
 
 Course Overview:
 -----
