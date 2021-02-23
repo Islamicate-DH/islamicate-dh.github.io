@@ -3,6 +3,14 @@ layout: page
 title: Resources and Repositories
 subtitle: 
 ---
+Online Resources for the Study of Islamicate Manuscripts
+---
+The following websites contain self-directed courses in the study of Arabic script manuscripts and are excellent entry points for students:
+
+1. [mouse&manuscript (University of Leiden)][18]
+2. [HMML Arabic Paleography][19]
+3. [Course in Islamic Paleography (Jan Just Witkam)][20]
+
 Archival Repositories
 ---
 The following is a non-comprehensive list of important repositories of digitized Islamicate manuscripts (including some either not in Arabic script or only partially in Arabic script, such as dual-language Coptic texts); note that these collections vary greatly in technical terms and particularly in terms of access. Some permit full downloads of texts in various formats (some image-by-image, others in PDF format, and some with IIIF), while others only permit in-browser viewing.
@@ -24,6 +32,15 @@ The following is a non-comprehensive list of important repositories of digitized
 15. [Qatar Digital Library][15] 
 16. [McGill Lithographs][16]
 17. [Library of Congress][17]
+
+Ongoing Projects in Digital Islamicate Humanities
+---
+The following is a non-comprehensive list of projects of various sorts related to or directly concerned with digital Islamicate humanities:
+
+1. [Open Islamicate Texts Initiative (OpenITI)][21]
+2. [Digital Ottoman Studies][22]
+3. [Access to Mideast and Islamic Resources (AMIR)][23]
+4. [IRANKORAN][24]
 
 Course Printed Resources
 ----
@@ -56,3 +73,10 @@ The following secondary sources will make up most of the course readings, primar
 [15]: https://www.qdl.qa/en "Qatar Digital Library"
 [16]: https://digital.library.mcgill.ca/islamic_lithographs/ "McGill Lithographs"
 [17]: https://www.loc.gov "Library of Congress"
+[18]: https://mouse.digitalscholarship.nl/ "mouse&manuscript (University of Leiden)"
+[19]: https://www.vhmmlschool.org/arabic "HMML Arabic Paleography"
+[20]: http://www.islamicmanuscripts.info/courses/index.html "Course in Islamic Paleography (Jan Just Witkam)"
+[21]: https://github.com/OpenITI "Open Islamicate Texts Initiative (OpenITI)"
+[22]: https://www.digitalottomanstudies.com/ "Digital Ottoman Studies"
+[23]: http://amirmideast.blogspot.com/ "Access to Mideast and Islamic Resources (AMIR)"
+[24]: https://www.bbaw.de/en/research/irankoran "IRANKORAN"
