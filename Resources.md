@@ -42,6 +42,9 @@ The following is a non-comprehensive list of projects of various sorts related t
 2. [Digital Ottoman Studies][22]
 3. [Access to Mideast and Islamic Resources (AMIR)][23]
 4. [IRANKORAN][24]
+5. [Knowledge, Information Technology, and the Arabic Book (KITAB)][26]
+6. [OpenITI mARkdown][27]
+7. [Islamicate Digital Humanities Network (IDHN)][28]
 
 Course Printed Resources
 ----
@@ -82,3 +85,6 @@ The following secondary sources will make up most of the course readings, primar
 [23]: http://amirmideast.blogspot.com/ "Access to Mideast and Islamic Resources (AMIR)"
 [24]: https://www.bbaw.de/en/research/irankoran "IRANKORAN"
 [25]: https://sinaimanuscripts.library.ucla.edu/ "Sinai Manuscripts Digital Library"
+[26]: http://kitab-project.org/ "Knowledge, Information Technology, and the Arabic Book (KITAB)"
+[27]: https://alraqmiyyat.github.io/mARkdown/ "OpenITI mARkdown"
+[28]: https://idhn.org/ "Islamicate Digital Humanities Network (IDHN)"
