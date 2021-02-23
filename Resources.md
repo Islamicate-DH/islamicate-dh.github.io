@@ -32,6 +32,7 @@ The following is a non-comprehensive list of important repositories of digitized
 15. [Qatar Digital Library][15] 
 16. [McGill Lithographs][16]
 17. [Library of Congress][17]
+18. [Sinai Manuscripts Digital Library][25]
 
 Ongoing Projects in Digital Islamicate Humanities
 ---
@@ -80,3 +81,4 @@ The following secondary sources will make up most of the course readings, primar
 [22]: https://www.digitalottomanstudies.com/ "Digital Ottoman Studies"
 [23]: http://amirmideast.blogspot.com/ "Access to Mideast and Islamic Resources (AMIR)"
 [24]: https://www.bbaw.de/en/research/irankoran "IRANKORAN"
+[25]: https://sinaimanuscripts.library.ucla.edu/ "Sinai Manuscripts Digital Library"
