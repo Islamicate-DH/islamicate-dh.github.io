@@ -33,6 +33,7 @@ The following is a non-comprehensive list of important repositories of digitized
 16. [McGill Lithographs][16]
 17. [Library of Congress][17]
 18. [Sinai Manuscripts Digital Library][25]
+19. [Datenbank Orientalische Handschriften der Forschungsbibliothek Gotha] [29]
 
 Ongoing Projects in Digital Islamicate Humanities
 ---
@@ -88,3 +89,4 @@ The following secondary sources will make up most of the course readings, primar
 [26]: http://kitab-project.org/ "Knowledge, Information Technology, and the Arabic Book (KITAB)"
 [27]: https://alraqmiyyat.github.io/mARkdown/ "OpenITI mARkdown"
 [28]: https://idhn.org/ "Islamicate Digital Humanities Network (IDHN)"
+[29]: https://gothams.dl.uni-leipzig.de/content/index.xml?XSL.lastPage.SESSION=/content/index.xml "Datenbank Orientalische Handschriften der Forschungsbibliothek Gotha"
